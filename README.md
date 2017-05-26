@@ -31,7 +31,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/wine_script.py)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py) ([See this guide.](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_binarization.md))
 
-### Session 3: Data Processing - Missing Values and Categorical Data
+### Session 3: Data Processing - Missing Values
 - [ ] [Dealing with Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_script.py) 
 
