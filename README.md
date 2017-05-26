@@ -18,32 +18,34 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 
 ## Our Milestones
 ### Getting started
-- [X] [Anaconda Installation](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md) 
-- [X] [Run a basic Python program in Anaconda Prompt](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
+- [X] [Anaconda Installation](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md) 
+- [X] [Run a basic Python program in Anaconda Prompt](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
 ### Session 1 
-- [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/samples/iris_script.py) ([slides](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/Introduction%20to%20Machine%20Learning.pptx))
-- [ ] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py) 
-- [ ] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
+- [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/samples/iris_script.py) ([slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/session%20slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pptx))
+- [ ] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
+- [ ] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 
 ### Session 2: Data Preprocessing - Feature Scaling
-- [ ] [Feature Scaling Tutorial](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/feature_scaling.md)
-- [ ] Exercise: Feature Scaling [Wine Data Classification](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/exercises/wine_script.py)
-- [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py) ([See this guide.](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/feature_binarization.md))
+- [ ] [Feature Scaling Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_scaling.md)
+- [ ] Exercise: Feature Scaling [Wine Data Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/wine_script.py)
+- [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py) ([See this guide.](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_binarization.md))
 
 ### Session 3: Data Processing - Missing Values and Categorical Data
 - [ ] [Dealing with Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
-- [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_diabetes.py) 
-- [ ] [Encoding Categorical Values Tutorial](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md) [WIP]
-- [ ] Exercise: [Adult Census Income Prediction](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/exercises/adult_script.py) [WIP]
-- [ ] [Tour of Machine Learning Algorithms - Resources](https://gitlab.com/issatingzon/WWCodeManila-ML.AI/blob/master/tutorials/machine_learning_algos.md)
+- [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_script.py) 
 
-### Session 4: Evaluation
+### Session 4: Data Processing - Missing Values and Categorical Data [WIP]
+- [ ] [Encoding Categorical Values Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md) 
+- [ ] Exercise: [Adult Census Income Prediction]()
+
+### Session 5: Evaluation
 - [ ] Accuracy, Precision and Recall, Confusion Matrix
+- [ ] Overfitting and Underfitting
 - [ ] Cross Validation
 
-### Session 5: Practice
-- [ ] [Titanic Survival Prediction](https://www.kaggle.com/c/titanic/data) + Submit Predictions to Kaggle
+### Session 6: Practice
+- [ ] Default dataset: [Titanic Survival Prediction](https://www.kaggle.com/c/titanic/data) + Submit Predictions to Kaggle
 
 ### Advanced concepts
 - [ ] Simple Linear Regression
@@ -51,6 +53,6 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] Sequential Data with Conditional Random Fields 
 - [ ] Association Rule Mining: Market-Basket Analysis in R
 - [ ] Spam Filter Application: Implementing Naive Bayes from Scratch 
-- [ ] Genetic Algorithms
+- [ ] Genetic Algorithms: Training Flappy Bird with Keras and Tensorflow
 
 Note: WIP = Work in Progress/ Under Construction
