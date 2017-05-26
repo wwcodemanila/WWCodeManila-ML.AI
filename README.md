@@ -35,7 +35,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] [Dealing with Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_script.py) 
 
-### Session 4: Data Processing - Missing Values and Categorical Data [WIP]
+### Session 4: Data Processing - Categorical Data [WIP]
 - [ ] [Encoding Categorical Values Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md) 
 - [ ] Exercise: [Adult Census Income Prediction]()
 
