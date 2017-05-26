@@ -22,11 +22,13 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] [Run a basic Python program in Anaconda Prompt](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
 ### Session 1 
-- [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/samples/iris_script.py) ([slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/session%20slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pptx))
+- [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/session%20slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pptx)
+- [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/samples/iris_script.py)
 - [ ] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
 - [ ] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 
 ### Session 2: Data Preprocessing - Feature Scaling
+- [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/session%20slides/(Session%202)%20Feature%20Scaling.pptx)
 - [ ] [Feature Scaling Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_scaling.md)
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/wine_script.py)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py) ([See this guide.](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_binarization.md))
