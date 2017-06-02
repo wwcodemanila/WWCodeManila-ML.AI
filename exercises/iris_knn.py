@@ -21,7 +21,7 @@ y = None
 
 # 3. Split the dataset into X_train, X_test, y_train, y_test 
 # 	 Set the train_size = 0.8
-# 	 Set seed (random_state) = 7 for reproducibility
+# 	 Set seed (random_state) = 42 for reproducibility
 
 # 4. Instantiate Learning Model for KNN. 
 # 	 Set K = 3 (i.e. n_neighbors)
