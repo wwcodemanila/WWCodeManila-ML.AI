@@ -22,14 +22,14 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] [Run a basic Python program in Anaconda Prompt](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
 ### Session 1 
-- [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/session%20slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pptx)
+- [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pdf)
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/samples/iris_script.py)
 - [ ] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
 - [ ] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 
 ### Session 2: K-Nearest Neighbor
-- [ ] [Session Slides]()
-- [ ] Exercise: [Iris Plant Classification using KNN]()
+- [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
+- [ ] Exercise: [Iris Plant Classification using KNN](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn.py)
 
 ### Session 3: Feature Scaling
 - [ ] [Session Slides]()

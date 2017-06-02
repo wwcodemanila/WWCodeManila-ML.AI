@@ -1,11 +1,7 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import cross_val_score
-from sklearn import preprocessing
+# 0. Import the following libraries:
+# 	 pandas, numpy
+# 	 matplotlib.pyplot as plt
+# 	 sklearn libraries for KNN, accuracy_score, train_test_split, and cross_val_score
 
 ###################################
 # PART 1: MACHINE LEARNING BASICS #
