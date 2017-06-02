@@ -12,7 +12,7 @@ https://archive.ics.uci.edu/ml/datasets/wine
 """
 
 # 1. Import all libraries that we used from the previous session
-# 	  plus the scikit-learn library for data processing
+# 	 plus the scikit-learn library for data processing
 
 # 2. Load the dataset wine.csv located in the /datasets folder.
 #	 Set header=None since the dataset has no headers.
@@ -34,8 +34,8 @@ df.columns = headers #Set the headers
 # 4. Print the first 10 instances of the dataframe using head() 
 #    just to check that we loaded the data and headers properly.
 
-# 5. Extract features and store them in X.
-#    Extract class labels and store them in y.
+# 5. Create matrix X containing the features
+# 	 Create target vector y containing the classes
 #    Tip: Instead of using df.values(), you can use df.iloc(). 
 #	    - df.values() returns an NumPy array.
 #	    - df.iloc() returns a DataFrame.
@@ -84,9 +84,9 @@ def plot():
 	feature1 = 'Alcohol' #alternatively, you can call headers[1] to avoid hard-coding
 	feature2 = 'Malic acid' #headers[2]
 
-	plt.scatter(X[feature1], X[feature2], color='green', label='raw input scale', alpha=0.5)
-	plt.scatter(X_standard[feature1], X_standard[feature2], color='red', label='Standardized (mean centered on 0, variance = 1)', alpha=0.5)
-	plt.scatter(X_minmax[feature1], X_minmax[feature2], color='blue', label='Scaled between 0 to 1 (MinMaxScaler)', alpha=0.5)
+	plt.scatter(X[feature1], X[feature2], color='green', label='Raw input scale', alpha=0.5)
+	plt.scatter(X_standard[feature1], X_standard[feature2], color='red', label='Standardized', alpha=0.5)
+	plt.scatter(X_minmax[feature1], X_minmax[feature2], color='blue', label='Scaled between 0 to 1', alpha=0.5)
 	plt.xlabel(feature1)
 	plt.ylabel(feature2)
 	plt.legend(loc='upper left')
@@ -104,8 +104,11 @@ def classify(string, X):
 	#	 For random_state, set the seed to 7 (para uniform results natin lahat :D).
 
 	# 11. 	Train X using different classifiers.
-	#		I suggest using DecisionTreeClassifier, SVM, MLPClassifier. Add others!
-
+	#		I suggest trying 
+	#			K-Nearest Neighbor (KNN)
+	#			DecisionTreeClassifier
+	# 			MLPClassifier
+	#			etc.
 	# 12. Calculate the accuracy for each classifier model, then print it. 
 
 

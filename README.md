@@ -27,31 +27,17 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
 - [ ] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 
-### Session 2: Data Preprocessing - Feature Scaling
-- [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/session%20slides/(Session%202)%20Feature%20Scaling.pptx)
+### Session 2: K-Nearest Neighbor
+- [ ] [Session Slides]()
+- [ ] Exercise: [Iris Plant Classification using KNN]()
+
+### Session 3: Feature Scaling
+- [ ] [Session Slides]()
 - [ ] [Feature Scaling Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_scaling.md)
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/wine_script.py)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py) ([See this guide.](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_binarization.md))
 
-### Session 3: Data Processing - Missing Values
-- [ ] [Dealing with Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
-- [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_script.py) 
-
-### Session 4: Data Processing - Categorical Data [WIP]
-- [ ] [Encoding Categorical Values Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md) 
-- [ ] Exercise: [Adult Census Income Prediction]()
-
-### Session 5: Evaluation
-- [ ] Accuracy, Precision and Recall, Confusion Matrix
-- [ ] Overfitting and Underfitting
-- [ ] Cross Validation
-
-### Session 6: Practice
-- [ ] Default dataset: [Titanic Survival Prediction](https://www.kaggle.com/c/titanic/data) + Submit Predictions to Kaggle
-
 ### Advanced concepts
-- [ ] Simple Linear Regression
-- [ ] K-Means Clustering 
 - [ ] Sequential Data with Conditional Random Fields 
 - [ ] Association Rule Mining: Market-Basket Analysis in R
 - [ ] Spam Filter Application: Implementing Naive Bayes from Scratch 
