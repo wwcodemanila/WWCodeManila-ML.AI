@@ -29,6 +29,8 @@ X_train, X_test, y_train, y_test = None, None, None, None
 # 6. Predict labels of the test set using the KNN model
 
 # 7. Evaluate accuracy
+accuracy = 0
+print("KNN accuracy: " + str(accuracy))
 
 ##################################################
 # PART 2: Parameter Tuning with Cross Validation #
@@ -39,8 +41,7 @@ X_train, X_test, y_train, y_test = None, None, None, None
 # 2. Create a list neighbors (a list of k's) which will be a list of odd numbers from 1 to 50:
 # 	 e.g. neighbors = [1, 3, 5, 7, 9, 11, ..., 49]
 neighbors = []
-# Debugging: 
-print(neighbors)
+# Debugging: print(neighbors)
 
 cv_scores = []
 # 3. For each k in neighbors,
