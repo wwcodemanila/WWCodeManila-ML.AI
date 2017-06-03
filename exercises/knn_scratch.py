@@ -14,7 +14,7 @@ y = None
 X_train, X_test, y_train, y_test = None, None, None, None
 
 # 4. KNearestNeighbor Algorithm
-#    Note that the steps listed are just guideline. 
+#    Note that the steps listed are just guidelines. 
 #    You're free to implement the KNN in any way you choose
 
 def predict(X_train, y_train, x_test, k):

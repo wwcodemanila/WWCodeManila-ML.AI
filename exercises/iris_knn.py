@@ -63,6 +63,8 @@ optimal_k = None
 #    5.3. Set optimal_k as the value of neighbors at index_min
 
 print("Optimal value for k is: ", optimal_k)
+print("Misclassification score: ", min(mse))
+print("Accuracy: ", 1 - min(mse))
 
 # Plotting misclassification errors vs neighbors (k's)
 # Uncomment this part to display graph
