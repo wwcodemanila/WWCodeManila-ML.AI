@@ -53,7 +53,7 @@ cv_scores = []
 mse = []
 # 4. Get the misclassification errors and store them in list 'mse'
 #    For each score in cv_scores:
-#       4.1 Set the misclassification error  to (1- cv_score)
+#       4.1 Set the misclassification error  to (1- score)
 #       4.2 Append the misclassification error to the list mse
 
 optimal_k = None
