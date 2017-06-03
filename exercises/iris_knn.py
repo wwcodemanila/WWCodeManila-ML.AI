@@ -13,15 +13,13 @@ df = None
 
 # 2. Create matrix X containing the features
 # 	 Create target vector y containing the classes
-#	 Tip: Use .iloc instead of .values 
-#	    - df.values() returns an NumPy array.
-#	    - df.iloc() returns a DataFrame.
 X = None
 y = None
 
-# 3. Split the dataset into X_train, X_test, y_train, y_test 
+# 3. Split the dataset
 # 	 Set the train_size = 0.8
 # 	 Set seed (random_state) = 42 for reproducibility
+X_train, X_test, y_train, y_test = None, None, None, None
 
 # 4. Instantiate Learning Model for KNN. 
 # 	 Set K = 3 (i.e. n_neighbors)
@@ -36,30 +34,34 @@ y = None
 # PART 2: Parameter Tuning with Cross Validation #
 ##################################################
 
-# 1. Import (at the beginning of the script) the sklearn library for cross validation: cross_val_score
+# 1. Import (at the start of the script) the sklearn library for cross validation: cross_val_score
 
 # 2. Create a list neighbors (a list of k's) which will be a list of odd numbers from 1 to 50:
-# 	 *We want k's to be odd in order to avoid ties.*
 # 	 e.g. neighbors = [1, 3, 5, 7, 9, 11, ..., 49]
 neighbors = []
-# print neighbors for debugging
+# Debugging: 
+print(neighbors)
 
 cv_scores = []
 # 3. For each k in neighbors,
-# 	 	3.1 Instantiate a learning model for KNN and set n_neighbors to k
+# 	 	3.1 Instantiate a learning model for KNN and set parameter n_neighbors = k
 # 	 	3.2 Perform cross validation using the cross_val_score function (set number of folds cv=10, scoring='accuracy')
-# 	 	3.3 cv_scores.append(average of the list of scores returned by cross_val_score)
+#	    3.3 Set avg_score to the average of the scores returned by cross_val_score
+# 	 	3.3 Append avg_score to the list cv_scores 
 
-# 4. Get the misclassification errors and store them in list 'mse'
-#    For each cv_score in cv_scores:
-# 		mse.append(misclassification error), where the misclassification error is equal to (1- cv_score)
 mse = []
+# 4. Get the misclassification errors and store them in list 'mse'
+#    For each score in cv_scores:
+#	    4.1 Set the misclassification error  to (1- cv_score)
+# 		4.2 Append the misclassification error to the list mse
 
+optimal_k = None
 # 5. Get the optimal k
 # 	 5.1. Set min_val = minimum value in mse (code for getting minimum value is: min(mse))
 # 	 5.2. Set index_min = index of the minimum value in mse (mse.index(min_val))
 # 	 5.3. Set optimal_k as the value of neighbor at index_min
-optimal_k = None
+
+print("Optimal value for k is: ", optimal_k)
 
 # Plotting misclassification errors vs neighbors (k's)
 # Uncomment this part to display graph
