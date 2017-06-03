@@ -17,7 +17,7 @@ X = None
 y = None
 
 # 3. Split the dataset
-#    Set the train_size = 0.8
+#    Set the test_size = 0.33
 #    Set seed (random_state) = 42 for reproducibility
 X_train, X_test, y_train, y_test = None, None, None, None
 
