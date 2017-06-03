@@ -17,8 +17,8 @@ X = None
 y = None
 
 # 3. Split the dataset
-# 	 Set the train_size = 0.8
-# 	 Set seed (random_state) = 42 for reproducibility
+#    Set the train_size = 0.8
+#    Set seed (random_state) = 42 for reproducibility
 X_train, X_test, y_train, y_test = None, None, None, None
 
 # 4. Instantiate Learning Model for KNN. 
