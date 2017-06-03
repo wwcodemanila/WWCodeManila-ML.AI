@@ -41,26 +41,22 @@ print("KNN accuracy: " + str(accuracy))
 # 2. Create a list neighbors (a list of k's) which will be a list of odd numbers from 1 to 50:
 # 	 e.g. neighbors = [1, 3, 5, 7, 9, 11, ..., 49]
 neighbors = []
-# Debugging: print(neighbors)
 
 cv_scores = []
 # 3. For each k in neighbors,
 #       3.1 Instantiate a learning model for KNN and set parameter n_neighbors = k
 #       3.2 Perform cross validation using the cross_val_score function (set number of folds cv=10, scoring='accuracy')
-#       3.3 Set avg_score to the average of the scores returned by cross_val_score
-#       3.4 Append avg_score to the list cv_scores 
+#       3.3 Set avg_score to the average of the scores returned by cross_val_score and append avg_score to cv_scores list
 
 mse = []
 # 4. Get the misclassification errors and store them in list 'mse'
 #    For each score in cv_scores:
-#       4.1 Set the misclassification error  to (1- score)
-#       4.2 Append the misclassification error to the list mse
+#       4.1 Set the misclassification error to (1- score) and append the misclassification error to the list mse
 
 optimal_k = None
 # 5. Get the optimal k
-#    5.1. Set min_val = minimum value in mse (code for getting minimum value is: min(mse))
-#    5.2. Set index_min = index of the minimum value in mse (mse.index(min_val))
-#    5.3. Set optimal_k as the value of neighbors at index_min
+#    5.1. Set index_min = index of the minimum value in mse 
+#    5.2. Set optimal_k as the value of neighbors at index_min
 
 print("Optimal value for k is: ", optimal_k)
 print("Misclassification score: ", min(mse))
