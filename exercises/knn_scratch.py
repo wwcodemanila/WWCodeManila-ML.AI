@@ -6,7 +6,7 @@ filename = None
 df = None
 
 # 2. Create matrix X containing the features
-# 	 Create target vector y containing the classes
+#    Create target vector y containing the classes
 #    Note: df.iloc returns a DataFrame
 #          df.values returns a Numpy array
 X = None
@@ -49,7 +49,7 @@ def predict(X_train, y_train, x_test, k):
 
 	# 4.4 Perform a majority vote on nearest k neighbors
 	#--------------------------------------------------------------
-	#     Define votes to be a dictionary containing the class labels as keys and the votes as values
+	#     Define votes to be a dictionary containing the class labels as keys and the number of votes as values
 	#     Initially, set the votes for each label to zero.
 	#     i.e. {'Iris-setosa': 0, 'Iris-versicolor': 0, 'Iris-virginica': 0}
 	#     Note: this shouldn't be hard-coded. 
