@@ -36,8 +36,8 @@ def predict(X_train, y_train, x_test, k):
 	#                Question: How do you access the training example of X_train at row i?
 	#          4.1.2 Compute the euclidean distance between x_test and x_train
 	#                You can try googling how to do this. :D
-	#          4.1.3 Get the corresponding training label of the training example at row i.
-	#          4.1.4 Append the tuple (computed_euclidean_distance, corresponding_training_label) to distances
+	#          4.1.3 Get the corresponding training label of x_train.
+	#          4.1.4 Append the tuple (euclidean distance, x_train_label) to distances
 
 	# 4.2 Sort elements in list 'distances' in ascending order
 	#----------------------------------------------------------
@@ -61,11 +61,9 @@ def predict(X_train, y_train, x_test, k):
 	# Each element in k_neighbors should be a tuple (distance, label)
 	# where distance is its euclidean distance from x_test and
 	#       label is its corresponding class label
-	# 4.4.1 For each tuple_ in k_neighbors,
-	#       4.4.1.1 Set label = the second element in the tuple
-	#       4.4.1.2 Increment votes[label] by one
+	# 4.4.1 For each tuple in k_neighbors, increment the value of votes[label] by one
 
-	# 4.5 Return the key with the highest value in the votes dictionary
+	# 4.5 Return the key (label) with the highest value (number of votes) in the votes dictionary
 	return None
 
 y_pred = []
