@@ -75,3 +75,21 @@ y_pred = []
 #       5.1 Predict the label of x_test using our predict() function
 #       5.2 Append the predicted label to y_pred
 print("KNN Accuracy: " + str(accuracy_score(y_test, y_pred)))
+
+#-----------------------------------------------------------------------
+# To check that your implementation is correct, try comparing your results
+#    with the results obtained using the sklearn library KNeighborsClassifier.
+# You can also test it on other datasets, such as the wine dataset.
+
+"""
+About the dataset: wine.csv
+These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. 
+The analysis determined the quantities of 13 constituents found in each of the three types of wines
+
+The data consists of:
+	13 features (see dataset/wine.headers)
+	3 classes - types of wine (I'm not sure what these types particularly are. In the dataset, they're just denoted as 1, 2, and 3. Sarreh.) 
+
+The first column contains the class labels.
+Columns 2-14 consist of the features.
+"""

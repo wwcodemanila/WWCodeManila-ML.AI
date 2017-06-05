@@ -26,8 +26,8 @@ plt.show()
 # Create matrix X containing the features
 X = df.iloc[:, :4] # Alternively: X = df.values[:, :4]
 # Note: difference between .iloc and .values 
-#      - df.values() returns an NumPy array.
-#      - df.iloc() returns a DataFrame.
+#      - df.values returns an NumPy array.
+#      - df.iloc returns a DataFrame.
 
 # Create target vector y containing the classes
 y = df.iloc[:, 4] # Alternatively: y = df['Species']
