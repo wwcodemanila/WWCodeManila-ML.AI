@@ -70,7 +70,3 @@ plt.xlabel('Number of Neighbors K')
 plt.ylabel('Misclassification Error')
 plt.show()
 """
-
-# For more information: https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/
-
-
