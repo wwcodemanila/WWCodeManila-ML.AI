@@ -26,6 +26,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/samples/iris_script.py)
 - [ ] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
 - [ ] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
+* Session Resource: [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 ### Session 2: K-Nearest Neighbor
 - [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
