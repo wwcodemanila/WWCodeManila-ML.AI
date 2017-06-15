@@ -14,8 +14,6 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     - Today I Learned (TIL)
     - Announcement
 
-* Tip: Our exercises in this study group would be great for building portfolios :D
-
 ## Our Milestones
 ### Getting started
 - [X] [Anaconda Installation](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md) 
@@ -34,8 +32,13 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] Assignment: [KNN from scratch](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch.py)
 * Session Resources: [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/), [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 
-### Session 3: Feature Scaling
-- [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%203)%20Feature%20Scaling.pdf)
+### Session 3: Data Pre-processing: Missing Values
+- [ ] [Session Slides] (https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%203)%20Missing%20Values.pdf)
+- [ ] [Dealing with Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
+- [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_script.py) 
+
+### Session 4: Feature Scaling
+- [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [ ] [Feature Scaling Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_scaling.md)
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/wine_script.py)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py) ([See this guide.](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_binarization.md))
