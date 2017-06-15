@@ -31,7 +31,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 ### Session 2: K-Nearest Neighbor
 - [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
 - [X] Exercise: [Iris Plant Classification using KNN](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn.py)
-- [ ] Assignment (optional): [KNN from scratch](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch.py)
+- [ ] Assignment: [KNN from scratch](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch.py)
 * Session Resource: [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/), [Machine Learning Recipes](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 
 ### Session 3: Feature Scaling
