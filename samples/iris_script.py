@@ -13,22 +13,12 @@ from sklearn.svm import SVC
 filename = '../datasets/iris.csv' #locates the iris.csv file in the /datasets folder
 df = pd.read_csv(filename, header=0) 
 
-# It's always a good idea to check out your data
-print(df.columns.values) # Column values (headers)
-print(df.shape) # dimensions of the dataframe
-print(df.head(10)) # Inspect first ten data instances
-print(df.groupby('Species').size()) # The number of data instances belonging to each class
-
-# Visualize data
-scatter_matrix(df) 
-plt.show()
 
 # Create matrix X containing the features
-X = df.iloc[:, :4] # Alternively: X = df.values[:, :4]
 # Note: difference between .iloc and .values 
 #      - df.values returns an NumPy array.
 #      - df.iloc returns a DataFrame.
-
+X = df.iloc[:, :4] # Alternively: X = df.values[:, :4]
 # Create target vector y containing the classes
 y = df.iloc[:, 4] # Alternatively: y = df['Species']
 

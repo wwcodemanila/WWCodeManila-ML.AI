@@ -24,15 +24,15 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 ### Session 1 
 - [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pdf)
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/samples/iris_script.py)
-- [ ] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
-- [ ] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
-* Session Resource: [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+- [X] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
+- [X] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
+* Session Resource: [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/), [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
 ### Session 2: K-Nearest Neighbor
-- [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
-- [ ] Exercise: [Iris Plant Classification using KNN](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn.py)
+- [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
+- [X] Exercise: [Iris Plant Classification using KNN](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn.py)
 - [ ] Assignment (optional): [KNN from scratch](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch.py)
-* Session Resource: [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
+* Session Resource: [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/), [Machine Learning Recipes](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 
 ### Session 3: Feature Scaling
 - [ ] [Session Slides]()
