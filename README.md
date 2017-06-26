@@ -27,16 +27,16 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
 - [X] Bonus: [Digit Recognizer Kaggle Submission](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 * Session Resources: 
-* [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-* [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+	* [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+	* [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
 ### K-Nearest Neighbor
 - [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
 - [X] Exercise: [Iris Plant Classification using KNN](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn.py)
 - [ ] Assignment: [KNN from scratch](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch.py)
 * Session Resources: 
-* [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
-* [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
+	* [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
+	* [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 
 ### Missing Values
 - [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%203)%20Missing%20Values.pdf)
