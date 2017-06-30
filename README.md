@@ -17,11 +17,11 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 * Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets)! 
 
 ## Our Milestones
-#### 1. Getting started
+### 1. Getting started
 - [X] [Anaconda Installation](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md) 
 - [X] [Run a basic Python program in Anaconda Prompt](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
-#### 2. Introduction to Machine Learning
+### 2. Introduction to Machine Learning
 - [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pdf)
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/samples/iris_script.py)
 - [X] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_script.py)
@@ -30,7 +30,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 	* [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 	* [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
-#### 3. K-Nearest Neighbor
+### 3. K-Nearest Neighbor
 - [X] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
 - [X] Exercise: [Iris Plant Classification using KNN](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn.py)
 - [ ] Assignment: [KNN from scratch](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch.py)
@@ -38,12 +38,12 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 	* [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 	* [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 
-#### 4. Missing Values
+### 4. Missing Values
 - [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%203)%20Missing%20Values.pdf)
 - [ ] [Dealing with Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_script.py) 
 
-#### 5. Feature Scaling
+### 5. Feature Scaling
 - [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [ ] [Feature Scaling Tutorial](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/feature_scaling.md)
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/wine_script.py)
