@@ -24,13 +24,10 @@ Create a python script `script.py` containing:
 print("Hello World!")
 ```
 
-Open Anaconda Prompt, navigate to you directory, and type in:
+Search for and open the Anaconda Prompt (it should look like a command prompt or terminal), navigate to you directory, and type in:
 
 ``` shell
 python script.py
 ```
 
 And voila! If no error occurs, you're good to go. :)
-
-
-
