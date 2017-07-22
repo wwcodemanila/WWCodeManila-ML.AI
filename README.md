@@ -21,7 +21,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 * [Guide on how to open an issue in a repository](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md)
     * Create a Github account and create a repository for wwcode-python. You will upload your works there.
     * Please upload or push the file in your GIT repository.
-    * Open an issue in our repository named <Your name> - <topic>. For example, John Doe - First ML Project.
+    * Open an issue in our repository named 'Your name' - 'topic'. For example, John Doe - First ML Project.
     * Share the link of your work on the issue.
 
 ## Our Milestones
