@@ -16,6 +16,14 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 * Note: Every other session, we will discuss one machine learning/ AI algorithm.
 * Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets)! 
 
+## Sharing Your Work
+* After finishing an exercise or assignment, upload your work to our repository.
+* [Guide on how to open an issue in a repository](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md)
+    * Create a Github account and create a repository for wwcode-python. You will upload your works there.
+    * Please upload or push the file in your GIT repository.
+    * Open an issue in our repository named <Your name> - <topic>. For example, John Doe - First ML Project.
+    * Share the link of your work on the issue.
+
 ## Our Milestones
 ### 1. Getting started
 - [X] [Anaconda Installation](https://www.continuum.io/downloads) 
@@ -42,6 +50,9 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] [Session Slides](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%203)%20Missing%20Values.pdf)
 - [ ] [Dealing with Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [ ] Exercise: [Pima Indians Diabetes Prediction](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_script.py) 
+* Session Resources:
+    * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
+    * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
 
 ### 5. Linear Regression (Coming Soon!)
 
