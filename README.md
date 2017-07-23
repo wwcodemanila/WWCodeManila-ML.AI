@@ -27,7 +27,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 ## Our Milestones
 ### 1. Getting started
 - [X] [Anaconda Installation](https://www.continuum.io/downloads) 
-- [X] [Run a basic Python program in Anaconda Prompt]()
+- [X] [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
 ### 2. Introduction to Machine Learning
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
@@ -62,12 +62,6 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 * Session Resource:
     * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
-
-### 7. Linear Regression (in One Variable)
-
-### 8. Linear Regression (Multiple Variables)
-
-### 9. Logistic Regression
 
 ### Introduction to Tensorflow
 * Session Resource:
