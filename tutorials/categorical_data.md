@@ -17,7 +17,7 @@ First we need to identify if the data is nominal or ordinal.
 Note: These techniques are generally used for features, not class labels. 
 
 ## Binary Categories
-For features with only two unique value, e.g. sex (Male and Female), the most common technique is to use a binary encoding.
+For features with only two unique value, the most common technique is to use a binary encoding.
 
 Example: For the feature `sex`, we encode `Female as 1` and `Male as 0`.
 
@@ -47,7 +47,6 @@ data['sex'] = encoder.fit_transform(data['sex'])
 Another way is to use numpy's `np.where()`
 ```python
 import numpy as np 
-
 data['sex'] = np.where(data['sex'] == 'Female', 1, 0)
 ```
 
@@ -97,7 +96,7 @@ But note that it's a good idea to let the numerical values reflect the order or 
 ## Nominal Data
 While it's possible to assign numerical attributes to each features, this might not always be a good ideas since classifiers can interpret the categories as being ordered, which is not the case for nominal data.
 
-One possible technique is to transform each categorical feature with m possible values into m binary *dummy features*, with only one active.
+One possible technique is to transform each categorical feature with `m` possible values (i.e. `m` levels) into `m` binary *dummy features*, with only one active.
 
 Example: For the nominal feature `eye_color` with values `blue, brown and green`, we create *dummy features* and call them `eye_color.blue`, `eye_color.brown`, and `eye_color.green`.
  
@@ -117,20 +116,21 @@ Example: For the nominal feature `eye_color` with values `blue, brown and green`
  4	| 2|   0 | 0| 1 | 0
  5	| 1| 1 | 0 | 0 | 1
 
- One way to do this is by using `OneHotEncoder`. [See this tutorial for implementation.](http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features) 
+ One way to do this is by using `OneHotEncoder`. [See this tutorial for implementation.](http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)  Note OneHotEncoder cannot process string values directly. If your nominal features are strings, then you need to first map them into integers (using `LabelEncoder()`, perhaps).
 
- Note that `OneHotEncoder` doesn't work for categorical values. You have to use `LabelEncoder` first. A bit of a hassle.
- 
- Personally, I prefer to use panda's `get_dummies`. Suppose we have another nominal feature called `hair_color`. The way to code this would be:
+ Another way is to use panda's `get_dummies()` method. Suppose we have another nominal feature called `hair_color`. The way to code this would be:
  ```python
 import pandas as pd
-
 nominals = ['eye_color', 'hair_color']
 data = pd.get_dummies(data, prefix=nominals, columns=nominals)
 ```
 This creates additional features `eye_color.brown`, `eye_color.blue`, ..., `eye_color.brown`, `hair_color.brown`, ... `hair_color.blonde` with binary values (indicating True or False for each feature). 
 
+Note that pandas.get_dummies, unlike 'OneHotEncode', only converts string columns into one-hot representation, unless columns are specified.
+(Source: https://stackoverflow.com/questions/36631163/pandas-get-dummies-vs-sklearns-onehotencoder-what-is-more-efficient)
+
 ## Resources
-* [Categorical(Nominal) vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
+* [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
 * [Simple Methods to deal with Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
 * [Kaggle discussion for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
+
