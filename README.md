@@ -63,14 +63,13 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 * Session Resource:
     * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
-### Neural Networks
-- [ ] Coming soon!
+### 7. Linear Regression (in One Variable)
 
-### Naive Bayes Classifier
-- [ ] Coming soon!
+### 8. Linear Regression (Multiple Variables)
 
-### Genetic Algorithms
-- [ ] Coming soon!
+### 9. Logistic Regression
 
 ### Introduction to Tensorflow
-* Session Resource: [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
+* Session Resource:
+- [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
+- [Tensorflow ad Deep Learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
