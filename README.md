@@ -63,7 +63,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 
 ### 7. Data Pre-processing: Categorical Values
 - [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
-- [ ] Exercise: [Adult Census Income Dataset]()
+- [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 * Session Resources:
     * [Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
     * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
