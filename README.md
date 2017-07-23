@@ -54,7 +54,9 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
     * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
 
-### 5. Decision Trees (Coming Soon!)
+### 5. Decision Trees 
+* Session Resources:
+    * [Decision Trees](https://github.com/ledell/useR-machine-learning-tutorial/blob/master/decision-trees.ipynb)
 
 ### 6. Feature Scaling
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
