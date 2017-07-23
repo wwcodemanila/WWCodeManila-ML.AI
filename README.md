@@ -24,12 +24,12 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * Open an issue in our repository named 'Your name' - 'topic'. For example, John Doe - First ML Project.
     * Share the link of your work on the issue.
 
-## Our Milestones
-### Getting started
+# Our Milestones
+## Getting started
 - [X] [Anaconda Installation](https://www.continuum.io/downloads) 
 - [X] [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
-### Introduction to Machine Learning with Scikit-learn
+## Introduction to Machine Learning with Scikit-learn
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
@@ -38,12 +38,11 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 	* [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
     * [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
-### Data Pre-processing 
----
-#### Descriptive Statistics 
+## Data Pre-processing 
+### Descriptive Statistics 
 - [ ] [Understand your Data with Descriptive Statistics](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
 
-#### Missing Values
+### Missing Values
 - [X] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
 * Session Resources:
@@ -51,7 +50,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
     * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
 
-#### Feature Scaling
+### Feature Scaling
 - [ ] Exercise: Feature Scaling - [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 * Session Resources:
@@ -59,7 +58,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Machine Learning Mastery]
     * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
-#### Categorical Values
+### Categorical Values
 - [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 * Session Resources:
@@ -68,9 +67,8 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
 
 
-### Machine Learning Algorithms 
----
-#### K-Nearest Neighbor
+## Machine Learning Algorithms 
+### K-Nearest Neighbor
 - [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
 - [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exersise.ipynb)
 * Session Resources: 
@@ -78,15 +76,14 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
     * [Machine Learning Recipes (Video 2)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 
-#### Decision Trees
+### Decision Trees
 - [ ] Exercise: [Titanic Dataset]()
 * Session Resources:
     * [Algobeans](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
     * [Decision Trees](https://github.com/ledell/useR-machine-learning-tutorial/blob/master/decision-trees.ipynb)
     * [Tree-based Modeling in Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
-### Deep Learning
----
+## Deep Learning
 ### Introduction to Tensorflow
 * Session Resource:
     - [Tensorflow ad Deep Learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
