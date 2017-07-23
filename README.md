@@ -29,7 +29,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] [Anaconda Installation](https://www.continuum.io/downloads) 
 - [X] [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
-### 2. Introduction to Machine Learning
+### Introduction to Machine Learning
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
@@ -38,15 +38,12 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 	* [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
     * [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
-### 3. ML Algorithm: K-Nearest Neighbor
-- [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
-- [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exersise.ipynb)
-* Session Resources: 
-    * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
-	* [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
-	* [Machine Learning Recipes (Video 2)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
+### Data Pre-processing 
+---
+### Descriptive Statistics 
+- [ ] [Understand your Data with Descriptive Statistics](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
 
-### 4. Data Pre-processing: Missing Values
+#### Missing Values
 - [X] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
 * Session Resources:
@@ -54,14 +51,15 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
     * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
 
-### 6. Data Pre-processing: Feature Scaling
+### Feature Scaling
 - [ ] Exercise: Feature Scaling - [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 * Session Resources:
     * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
+    * [Machine Learning Mastery]
     * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
-### 7. Data Pre-processing: Categorical Values
+### Categorical Values
 - [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 * Session Resources:
@@ -69,14 +67,25 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
     * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
 
-### 5. ML Algorithm: Decision Trees
+
+### Machine Learning Algorithms 
+---
+#### K-Nearest Neighbor
+- [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
+- [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exersise.ipynb)
+* Session Resources: 
+    * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
+    * [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
+    * [Machine Learning Recipes (Video 2)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
+
+#### Decision Trees
 - [ ] Exercise: [Titanic Dataset]()
 * Session Resources:
     * [Algobeans](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
     * [Decision Trees](https://github.com/ledell/useR-machine-learning-tutorial/blob/master/decision-trees.ipynb)
     * [Tree-based Modeling in Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
-### Introduction to Tensorflow (Coming soon!)
+### Introduction to Tensorflow
 * Session Resource:
     - [Tensorflow ad Deep Learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
     - [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
