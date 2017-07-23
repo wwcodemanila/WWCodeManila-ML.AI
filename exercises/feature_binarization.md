@@ -1,6 +1,6 @@
 # Binarize Features in MNIST
 
-## Feature Binarization
+### Feature Binarization
 Feature binarization is the process of thresholding numerical features to get boolean values.
 ```python
 binarizer = preprocessing.Binarizer()
@@ -8,7 +8,7 @@ X_binarized = pd.DataFrame(binarizer.transform(X))
 ```
 Basically, the feature values take on either a value of 0 or 1 (i.e. binary values).
 
-## Your Task
+### Your Task
 Edit your mnist script as follows:
 - Scale the features so that each value is either 0 if pixel value = 0, and 1 if pixel value > 0.
 - You can check what an image looks like after feature binarization using the following code.

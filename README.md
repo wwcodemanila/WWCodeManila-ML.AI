@@ -59,7 +59,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 ### 6. Feature Scaling
 - [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
-- [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)]() 
+- [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 * Session Resource:
     * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
