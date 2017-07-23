@@ -55,7 +55,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 * Session Resources:
     * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
-    * [Machine Learning Mastery]
+    * [Machine Learning Mastery](http://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/)
     * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
 ### Categorical Values
