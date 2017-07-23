@@ -25,14 +25,14 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * Share the link of your work on the issue.
 
 ## Our Milestones
-### 1. Getting started
+### Getting started
 - [X] [Anaconda Installation](https://www.continuum.io/downloads) 
 - [X] [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 
 ### 2. Introduction to Machine Learning
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
-- [X] Exercise/Assignment: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
-- [X] Bonus: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
+- [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
+- [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 * Session Resources: 
     * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pdf)
 	* [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
@@ -54,18 +54,29 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
     * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
 
-### 5. Decision Trees 
-* Session Resources:
-    * [Decision Trees](https://github.com/ledell/useR-machine-learning-tutorial/blob/master/decision-trees.ipynb)
-
 ### 6. Feature Scaling
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
-* Session Resource:
+* Session Resources:
     * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
     * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
+### 7. Categorical Values
+- [ ] [Categorical Values Tutorial]()
+- [ ] Exercise: [Adult Census Income Dataset]()
+* Session Resources:
+    * [Simple Methods to deal with Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
+    * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
+    * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
+
+### 5. Decision Trees
+- [ ] Exercise: [Titanic Dataset]()
+* Session Resources:
+    * [Algobeans](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
+    * [Decision Trees](https://github.com/ledell/useR-machine-learning-tutorial/blob/master/decision-trees.ipynb)
+    * [](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
 ### Introduction to Tensorflow
 * Session Resource:
-- [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
-- [Tensorflow ad Deep Learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+    - [Tensorflow ad Deep Learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+    - [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
