@@ -26,3 +26,5 @@ You can check out the [Kaggle competition for Digit Recognizer here](https://www
 		df.to_csv('results.csv', header=True)
 		```
 4. [Submit your predictions (results.csv) here](https://www.kaggle.com/c/digit-recognizer/submit) and wait for Kaggle to score it. :D
+
+5. Take a screenshot of your results/rank in Kaggle! 
