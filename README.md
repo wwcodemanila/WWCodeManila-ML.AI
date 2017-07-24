@@ -19,15 +19,16 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 ## Sharing Your Work
 * After finishing an exercise or assignment, upload your work to our repository.
 * [Guide on how to open an issue in a repository](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md)
-    * Create a Github account and create a repository for wwcode-python. You will upload your works there.
+    * Create a Github account and create a repository for wwcode-ml.ai. You will upload your work there.
     * Please upload or push the file in your GIT repository.
-    * Open an issue in our repository named 'Your name' - 'topic'. For example, John Doe - First ML Project.
+    * Open an issue in this repository named [Your name] - [topic]. For example, John Doe - First ML Project.
     * Share the link of your work on the issue.
 
-# Our Milestones
+## Our Milestones
 ### Getting started
 - [X] [Anaconda Installation](https://www.continuum.io/downloads) 
 - [X] [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
+- [ ] [Using Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
 
 ### Introduction to Machine Learning with Scikit-learn
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
@@ -35,13 +36,10 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 * Session Resources: 
     * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pdf)
-	* [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+    * [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
     * [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
 ## Data Pre-processing 
-### Descriptive Statistics 
-- [ ] [Understand your Data with Descriptive Statistics](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
-
 ### Missing Values
 - [X] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
@@ -51,7 +49,8 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
 
 ### Feature Scaling
-- [ ] Exercise: Feature Scaling - [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
+- [ ] Review: [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
+- [ ] Exercise: Feature Scaling [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 * Session Resources:
     * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
@@ -66,7 +65,6 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
     * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
 
-
 ## Machine Learning Algorithms 
 ### K-Nearest Neighbor
 - [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
@@ -76,7 +74,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
     * [Machine Learning Recipes (Video 2)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 
-### Decision Trees
+### Decision Trees (Coming soon!)
 - [ ] Exercise: [Titanic Dataset]()
 * Session Resources:
     * [Algobeans](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
