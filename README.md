@@ -1,5 +1,7 @@
 # Welcome to the Machine Learning and AI Study Group!
-We'll be studying how to use machine learning tools to analyze, cluster, classify, and predict data.
+Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI.
+
+(Definition taken from [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning))
 
 If you have questions, please feel free to ask and participate on our [discussion
 board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/25085644). 
