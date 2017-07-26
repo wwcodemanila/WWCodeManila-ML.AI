@@ -55,6 +55,7 @@ Yet another way to do this is by casting the feature vector as a 'category':
 data['gender'] = data['gender'].astype("category")
 data['gender'].cat.categories = [0,1]
 ```
+[See this link for more info.](https://pandas.pydata.org/pandas-docs/stable/categorical.html)
 
 ## Ordinal Data
 A possible way to encode ordinal data is to convert the input into numerical variables.
