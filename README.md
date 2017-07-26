@@ -29,67 +29,48 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 ### Getting started
 - [X] [Anaconda Installation](https://www.continuum.io/downloads) 
 - [X] [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
-- [ ] [Using Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
+- [X] [Getting started with Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
 
 ### Introduction to Machine Learning with Scikit-learn
 - [X] Our First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
-* Session Resources: 
-    * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%201)%20Introduction%20to%20Machine%20Learning.pdf)
-    * [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-    * [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+- [X] [Session Resources]()
 
-## Data Pre-processing 
+### K-Nearest Neighbor
+- [X] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
+- [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
+- [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exersise.ipynb)
+- [Session Resources]()
+
 ### Missing Values
+- [X] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [X] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
-* Session Resources:
-    * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
-    * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
-    * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
+- [X] [Session Resources]()
+
 
 ### Feature Scaling
+- [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [ ] Review: [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
 - [ ] Exercise: Feature Scaling [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
-* Session Resources:
-    * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
-    * [Machine Learning Mastery](http://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/)
-    * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
+- [ ] [Session Resources]()
+
 
 ### Categorical Values
 - [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
-* Session Resources:
-    * [Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
-    * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
-    * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
-
-## Machine Learning Algorithms 
-### K-Nearest Neighbor
-- [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
-- [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exersise.ipynb)
-* Session Resources: 
-    * [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
-    * [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
-    * [Machine Learning Recipes (Video 2)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
+- [ ] [Session Resources]()
 
 ### Decision Trees (Coming soon!)
 - [ ] Exercise: [Titanic Dataset]()
-* Session Resources:
-    * [Decision Trees Overview](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
-    * [Slides about Decision Trees](https://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
-    * [Decision Trees from Scratch](http://nbviewer.jupyter.org/github/ethen8181/machine-learning/blob/master/trees/decision_tree.ipynb)
-    * [Tips on Practical Use](http://scikit-learn.org/stable/modules/tree.html#tips-on-practical-use)
-    * [Tree-based Modeling in Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+- [ ] [Session Resources]()
 
 ### Linear Regression in One Variable (Coming Soon!)
-* Session Resources:
-    * [Linear Regression in Python](http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html)
+- [ ] [Session Resources]
 
-## Deep Learning
+
 ### Introduction to Tensorflow (Coming Soon!)
 - [ ] Exercise: [Tensorflow and Deep Learning Tutorial](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
-* Session Resource:
-    - [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
+- [ ] [Session Resource]()
