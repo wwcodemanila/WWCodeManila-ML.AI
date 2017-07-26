@@ -41,7 +41,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
 - [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
 - [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exersise.ipynb)
-- [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#k-nearest-neighbor)
+- [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#k-nearest-neighbor)
 
 ### Missing Values
 - [X] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
