@@ -19,9 +19,9 @@ Note: These techniques are generally used for features, not class labels.
 ## Binary Categories
 For features with only two unique value, the most common technique is to use a binary encoding.
 
-Example: For the feature `sex`, we encode `Female as 1` and `Male as 0`.
+Example: For the feature `gender`, we encode `Female as 1` and `Male as 0`.
 
- user ID | education | sex | eye_color
+ user ID | education | gender | eye_color
  ------- |-----------| ----|----------
  1	| Elementary | Female | blue
  2	| College    |   Male | brown
@@ -29,7 +29,7 @@ Example: For the feature `sex`, we encode `Female as 1` and `Male as 0`.
  4	| College    |   Male | brown
  5	| High School| Female | green
 
- user ID | education | sex | eye_color
+ user ID | education | gender | eye_color
  --- |---| ---|---
  1	| Elementary | 1 | blue
  2	| College    | 0 | brown
@@ -41,19 +41,19 @@ Example: For the feature `sex`, we encode `Female as 1` and `Male as 0`.
 We can use `LabelEncoder` to do this:
 ```python
 encoder = preprocessing.LabelEncoder()
-data['sex'] = encoder.fit_transform(data['sex'])
+data['gender'] = encoder.fit_transform(data['gender'])
 ```
 
 Another way is to use numpy's `np.where()`
 ```python
 import numpy as np 
-data['sex'] = np.where(data['sex'] == 'Female', 1, 0)
+data['gender'] = np.where(data['gender'] == 'Female', 1, 0)
 ```
 
 Yet another way to do this is by casting the feature vector as a 'category':
 ```python
-data['sex'] = data['sex'].astype("category")
-data['sex'].cat.categories = [0,1]
+data['gender'] = data['gender'].astype("category")
+data['gender'].cat.categories = [0,1]
 ```
 
 ## Ordinal Data
@@ -64,7 +64,7 @@ Example: For the ordinal feature `education` with unique values `Elementary, Hig
 * High School -> 1
 * College -> 2
 
- user ID | education | sex | eye_color
+ user ID | education | gender | eye_color
  --- |---| ---|---
  1	| Elementary | 1 | blue
  2	| College    | 0 | brown
@@ -72,7 +72,7 @@ Example: For the ordinal feature `education` with unique values `Elementary, Hig
  4	| College    | 0 | brown
  5	| High School| 1 | green
 
- user ID | education | sex | eye_color
+ user ID | education | gender | eye_color
  --- |---| ---|---
  1	| 0| 1 | blue
  2	| 2|   0 | brown
@@ -100,7 +100,7 @@ One possible technique is to transform each categorical feature with `m` possibl
 
 Example: For the nominal feature `eye_color` with values `blue, brown and green`, we create *dummy features* and call them `eye_color.blue`, `eye_color.brown`, and `eye_color.green`.
  
- user ID | education | sex | eye_color
+ user ID | education | gender | eye_color
  --- |---| ---|---
  1	| 0| 1 | blue
  2	| 2|   0 | brown
@@ -108,7 +108,7 @@ Example: For the nominal feature `eye_color` with values `blue, brown and green`
  4	| 2|   0 | brown
  5	| 1| 1 | green
 
-  user ID | education | sex | eye_color. blue |eye_color.brown | eye_color.green 
+  user ID | education | gender | eye_color. blue |eye_color.brown | eye_color.green 
  --- |---| ---|--- | --- | ---
  1	| 0| 1 | 1 |0 | 0
  2	| 2|   0 | 0| 1 | 0
