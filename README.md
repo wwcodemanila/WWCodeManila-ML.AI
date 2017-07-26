@@ -78,12 +78,18 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 ### Decision Trees (Coming soon!)
 - [ ] Exercise: [Titanic Dataset]()
 * Session Resources:
-    * [Algobeans](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
-    * [Decision Trees](https://github.com/ledell/useR-machine-learning-tutorial/blob/master/decision-trees.ipynb)
+    * [Decision Trees Overview](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
+    * [Slides about Decision Trees](https://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
+    * [Decision Trees from Scratch](http://nbviewer.jupyter.org/github/ethen8181/machine-learning/blob/master/trees/decision_tree.ipynb)
+    * [Tips on Practical Use](http://scikit-learn.org/stable/modules/tree.html#tips-on-practical-use)
     * [Tree-based Modeling in Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
+### Linear Regression in One Variable (Coming Soon!)
+* Session Resources:
+    * [Linear Regression in Python](http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html)
 
 ## Deep Learning
 ### Introduction to Tensorflow (Coming Soon!)
+- [ ] Exercise: [Tensorflow and Deep Learning Tutorial](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * Session Resource:
-    - [Tensorflow ad Deep Learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
     - [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
