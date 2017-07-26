@@ -15,6 +15,7 @@
 * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
 ## Categorical Values
+* [Enhance Machine Learning with Standardizing, Binning, Reducing](http://data-informed.com/enhance-machine-learning-with-standardizing-binning-reducing/)
 * [Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
 * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
 * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)

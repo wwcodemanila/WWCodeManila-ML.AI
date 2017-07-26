@@ -23,7 +23,6 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     * Please upload or push the file in your GIT repository.
     * Open an issue in this repository named [Your name] - [topic]. For example, John Doe - First ML Project.
     * Share the link of your work on the issue.
-* We celebrate all sorts of accomplishments, big or small! So please share your work with us ٩(●ᴗ●)۶
 
 ## Our Milestones
 ### Getting started
@@ -32,7 +31,7 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] [Getting started with Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
 
 ### Introduction to Machine Learning with Scikit-learn
-- [X] Our First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- [X] [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 - [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#introduction-to-machine-learning-with-scikit-learn)
@@ -49,16 +48,14 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
 - [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#missing-values)
 
-
 ### Feature Scaling
 - [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [ ] Review: [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
-- [ ] Exercise: Feature Scaling [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
-- [ ] Assignment: Binarize Features in [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
+- [ ] Exercise: [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
+- [ ] Assignment: [Binarize Features in Handwritten Digit Recognition](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#feature-scaling)
 
-
-### Categorical Values
+### Categorical Values 
 - [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
@@ -69,7 +66,6 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 
 ### Linear Regression in One Variable (Coming Soon!)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#linear-regression-in-one-variable)
-
 
 ### Introduction to Tensorflow (Coming Soon!)
 - [ ] Exercise: [Tensorflow and Deep Learning Tutorial](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)

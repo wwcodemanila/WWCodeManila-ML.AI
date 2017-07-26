@@ -19,5 +19,6 @@
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
 ## Miscellaneous
+* [Data Wrangling with Python and Pandas](http://www.cs.tufts.edu/comp/150VAN/demos/DataWrangling.pdf)
 * [Cross Validated](https://stats.stackexchange.com/)
 	* For ML/AI questions, this is the place to go. 

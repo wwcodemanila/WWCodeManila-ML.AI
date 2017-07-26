@@ -4,9 +4,9 @@
 Feature binarization is the process of thresholding numerical features to get boolean values.
 ```python
 binarizer = preprocessing.Binarizer()
-X_binarized = pd.DataFrame(binarizer.transform(X))
+X_binarized = binarizer.transform(X)
 ```
-Basically, the feature values take on either a value of 0 or 1 (i.e. binary values).
+In other words, the feature values of `X_binarized` will take on either values of 0 or 1 (i.e. binary values). ([Scikit-learn binarization](http://scikit-learn.org/stable/modules/preprocessing.html#binarization))
 
 ### Your Task
 Edit your mnist script as follows:
@@ -22,7 +22,7 @@ plt.title('Class label: ' + str(labels[i]))
 plt.show()
 ```
 
-Note that you might need to cast `X_binarized` as a DataFrame. 
+Note that if an error occurs, you might need to cast `X_binarized` as a DataFrame. 
 ```python
 X_binarized = pd.DataFrame(X_binarized) 
 ```
