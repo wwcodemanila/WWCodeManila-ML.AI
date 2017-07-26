@@ -128,7 +128,7 @@ data = pd.get_dummies(data, prefix=nominals, columns=nominals)
 This creates additional features `eye_color.brown`, `eye_color.blue`, ..., `eye_color.brown`, `hair_color.brown`, ... `hair_color.blonde` with binary values (indicating True or False for each feature). 
 
 Note that pandas.get_dummies, unlike 'OneHotEncode', only converts string columns into one-hot representation, unless columns are specified.
-(Source: https://stackoverflow.com/questions/36631163/pandas-get-dummies-vs-sklearns-onehotencoder-what-is-more-efficient)
+([Source](https://stackoverflow.com/questions/36631163/pandas-get-dummies-vs-sklearns-onehotencoder-what-is-more-efficient))
 
 ## Resources
 * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
