@@ -27,4 +27,4 @@ You can check out the [Kaggle competition for Digit Recognizer here](https://www
 		```
 4. [Submit your predictions (results.csv) here](https://www.kaggle.com/c/digit-recognizer/submit) and wait for Kaggle to score it. :D
 
-5. Take a screenshot of your results/rank in Kaggle! 
+5. Take a screenshot of your results/rank in Kaggle! Share your results! :D 

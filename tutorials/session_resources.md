@@ -1,10 +1,12 @@
 ## Introduction to Machine Learning with Scikit-learn
 * [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+* [Getting started with Kaggle](http://machinelearningmastery.com/get-started-with-kaggle/)
 
 ## K-Nearest Neighbor
 * [A Complete Guide to KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 * [Machine Learning Recipes (Video 2)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
+* [How to implement K Nearest Neighbors in Python](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 
 ## Missing Values
 * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
@@ -15,6 +17,7 @@
 * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
 ## Categorical Values
+* [Why One-Hot Encode Data in Machine Learning?](http://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
 * [Enhance Machine Learning with Standardizing, Binning, Reducing](http://data-informed.com/enhance-machine-learning-with-standardizing-binning-reducing/)
 * [Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
 * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
@@ -32,3 +35,13 @@
 
 ## Introduction to Tensorflow 
 * [Siraj Raval's Youtube Channel](https://www.youtube.com/watch?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj&v=2FOXR16mLow)
+
+## Model Performance
+* [How to Report Classifier Performance with Confidence Intervals](http://machinelearningmastery.com/report-classifier-performance-confidence-intervals/)
+
+## Hyperparameter Optimization for sklearn
+* [Hyperopt](https://github.com/hyperopt/hyperopt-sklearn)
+
+## Github
+* [WWCodeManila Slides](https://docs.google.com/presentation/d/12V6uMwiysd04kU_2o7O-yH6tGmx5z4G1ldDOgRjFp7c/present?slide=id.g22a226d4c5_0_1)
+* 

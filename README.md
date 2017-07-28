@@ -19,12 +19,12 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 * Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets)! 
 
 ## Sharing Your Work
-* After finishing an exercise or assignment (it could be any), upload your work to our repository.
-* [Guide on how to open an issue in a repository](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md)
+* [Guide on how to open an issue in a repository.](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md)
     * Create a Github account and create a repository for wwcode-ml.ai. You will upload your work there.
-    * Please upload or push the file in your GIT repository.
+    * Please upload or push the file to your GIT repository.
     * Open an issue in this repository named [Your name] - [topic]. For example, John Doe - First ML Project.
     * Share the link of your work on the issue.
+* New to Git? No worries, [we've got you covered](). 
 
 ## Our Milestones
 ### Getting started
