@@ -1,3 +1,8 @@
+## Github
+* [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+* [Learn Git in 15 minutes](https://try.github.io/)
+* [WWCodeManila Slides](https://docs.google.com/presentation/d/12V6uMwiysd04kU_2o7O-yH6tGmx5z4G1ldDOgRjFp7c/present?slide=id.g22a226d4c5_0_1)
+
 ## Introduction to Machine Learning with Scikit-learn
 * [Your First Machine Learning Project](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [Machine Learning Recipes (Video)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
@@ -40,8 +45,4 @@
 * [How to Report Classifier Performance with Confidence Intervals](http://machinelearningmastery.com/report-classifier-performance-confidence-intervals/)
 
 ## Hyperparameter Optimization for sklearn
-* [Hyperopt](https://github.com/hyperopt/hyperopt-sklearn)
-
-## Github
-* [WWCodeManila Slides](https://docs.google.com/presentation/d/12V6uMwiysd04kU_2o7O-yH6tGmx5z4G1ldDOgRjFp7c/present?slide=id.g22a226d4c5_0_1)
-* 
+* [Hyperopt sklearn](https://github.com/hyperopt/hyperopt-sklearn)
