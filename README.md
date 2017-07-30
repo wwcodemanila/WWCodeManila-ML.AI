@@ -36,40 +36,40 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
-- [X] [Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#introduction-to-machine-learning-with-scikit-learn)
+- [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#introduction-to-machine-learning-with-scikit-learn)
 
 ### K-Nearest Neighbor
-- [X] [Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
+- [X] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%202)%20K-Nearest%20Neighbor.pdf)
 - [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
 - [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exercise.ipynb)
-- [X] [Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#k-nearest-neighbor)
+- [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#k-nearest-neighbor)
 
 ### Missing Values
-- [X] [Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
+- [X] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [X] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
-- [X] [Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#missing-values)
+- [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#missing-values)
 
 ### Feature Scaling
-- [ ] [Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
+- [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [ ] Review: [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
 - [ ] Exercise: [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: [Binarize Features in Handwritten Digit Recognition](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
-- [ ] [Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#feature-scaling)
+- [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#feature-scaling)
 
 ### Categorical Values 
-- [ ] [Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%205)%20Categorical%20Data.pdf)
+- [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%205)%20Categorical%20Data.pdf)
 - [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
-- [ ] [Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
+- [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
 
 ### Decision Trees (Coming soon!)
 - [ ] Exercise: [Titanic Dataset]()
-- [ ] [Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#decision-trees)
+- [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#decision-trees)
 
 ### Linear Regression in One Variable (Coming Soon!)
-- [ ] [Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#linear-regression-in-one-variable)
+- [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#linear-regression-in-one-variable)
 
 ### Introduction to Tensorflow (Coming Soon!)
 - [ ] Exercise: [Tensorflow and Deep Learning Tutorial](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
-- [ ] [Resource](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#introduction-to-tensorflow)
+- [ ] [Session Resource](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#introduction-to-tensorflow)
