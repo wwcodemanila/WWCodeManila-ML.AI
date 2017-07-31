@@ -13,19 +13,21 @@
 * [Machine Learning Recipes (Video 2)](https://www.youtube.com/watch?v=AoeEHqVSNOw&t=401s)
 * [How to implement K Nearest Neighbors in Python](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 
-## Missing Values
+## Feature Engineering
+* [Comprehensive Guide to Feature Engineering](http://adataanalyst.com/machine-learning/comprehensive-guide-feature-engineering/)
+
+### Missing Values
 * [Working with missing values in Pandas](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
 * [Imputation with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html#imputation-of-missing-values)
 
-## Feature Scaling
+### Feature Scaling
 * [Machine Learning Mastery](http://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/)
 * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
-## Categorical Values
-* [Why One-Hot Encode Data in Machine Learning?](http://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
-* [Enhance Machine Learning with Standardizing, Binning, Reducing](http://data-informed.com/enhance-machine-learning-with-standardizing-binning-reducing/)
+### Categorical Values
 * [Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
 * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
+* [Why One-Hot Encode Data in Machine Learning?](http://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
 * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
 
 ## Decision Trees

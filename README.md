@@ -3,9 +3,6 @@ Machine learning is the science of getting computers to act without being explic
 
 (Definition taken from [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning))
 
-If you have questions, please feel free to ask and participate on our [discussion
-board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/25085644). 
-
 ## Study Group Setup
 * Resources such as notes, exercises and samples will be uploaded here.
 * Our 1.5-2 hours will be divided into:
@@ -17,6 +14,11 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
     - Announcement
 * Note: Every other session, we will discuss one machine learning/ AI algorithm.
 * Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets)! 
+
+## Discussions Board
+If you have questions, please feel free to ask and participate in any of the following: 
+- [Discussion board at our official Meetup page](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/25085644) 
+- [ML/AI Gitter](https://gitter.im/WWCodeManila-ML-AI/). 
 
 ## Sharing Your Work
 * [Guide on how to open an issue in a repository.](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md)
@@ -50,21 +52,30 @@ board](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/250856
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
 - [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#missing-values)
 
+### Exploratory Analysis
+- [ ] [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
+- [ ] [Visualize Machine Learning Data in Python With Pandas](http://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
+- [ ] Exercise: [Pima Indians Diabetes Prediction]()
+
 ### Feature Scaling
 - [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
-- [ ] Review: [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
 - [ ] Exercise: [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: [Binarize Features in Handwritten Digit Recognition](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#feature-scaling)
 
 ### Categorical Values 
 - [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%205)%20Categorical%20Data.pdf)
+- [ ] [Visualize Categorical Data ](http://adataanalyst.com/data-analysis-resources/visualise-categorical-variables-in-python/)
 - [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
 
-### Decision Trees (Coming soon!)
+### Machine Learning Practice 
+- [ ] [Feature Engineering and how to get good at it](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 - [ ] Exercise: [Titanic Dataset]()
+- [ ] Guide: [Kaggle Titanic Tutorial in Scikit-learn](http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/)
+
+### Decision Trees (Coming soon!)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#decision-trees)
 
 ### Linear Regression in One Variable (Coming Soon!)

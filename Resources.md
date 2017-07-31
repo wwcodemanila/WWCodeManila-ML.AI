@@ -21,6 +21,7 @@
 ## Publicly Available Datasets
 * [Kaggle](https://www.kaggle.com/datasets)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+* [17 Ultimate Data Science Projects To Boost Your Knowledge and Skills](https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
 ## Miscellaneous
 * [Cross Validated](https://stats.stackexchange.com/)

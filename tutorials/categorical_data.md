@@ -37,25 +37,31 @@ Example: For the feature `gender`, we encode `Female as 1` and `Male as 0`.
  4	| College    | 0 | brown
  5	| High School| 1 | green
 
+There are a number of way to do this. Listed are just some ways:
 
-We can use `LabelEncoder` to do this:
+### Using LabelEncoder
 ```python
 encoder = preprocessing.LabelEncoder()
 data['gender'] = encoder.fit_transform(data['gender'])
 ```
 
-Another way is to use numpy's `np.where()`
+### Using Panda's `factorize()`
+```python
+data['sex'] = pd.factorize(data['sex'])[0] 
+```
+
+### Using Numpy's `where()`
 ```python
 import numpy as np 
 data['gender'] = np.where(data['gender'] == 'Female', 1, 0)
 ```
 
-Yet another way to do this is by casting the feature vector as a 'category':
+### Casting the feature as a category
 ```python
 data['gender'] = data['gender'].astype("category")
 data['gender'].cat.categories = [0,1]
 ```
-[See this link for more info.](https://pandas.pydata.org/pandas-docs/stable/categorical.html)
+[See this link for additional info.](https://pandas.pydata.org/pandas-docs/stable/categorical.html)
 
 ## Ordinal Data
 A possible way to encode ordinal data is to convert the input into numerical variables.
@@ -117,7 +123,7 @@ Example: For the nominal feature `eye_color` with values `blue, brown and green`
  4	| 2|   0 | 0| 1 | 0
  5	| 1| 1 | 0 | 0 | 1
 
- One way to do this is by using `OneHotEncoder`. [See this tutorial for implementation.](http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)  Note OneHotEncoder cannot process string values directly. If your nominal features are strings, then you need to first map them into integers (using `LabelEncoder()`, perhaps).
+ One way to do this is by using `OneHotEncoder`. [See this tutorial for implementation.](http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)  Note that OneHotEncoder cannot process string values directly. If your nominal features are strings, then you need to first map them into integers (using `LabelEncoder()`, perhaps).
 
  Another way is to use panda's `get_dummies()` method. Suppose we have another nominal feature called `hair_color`. The way to code this would be:
  ```python
