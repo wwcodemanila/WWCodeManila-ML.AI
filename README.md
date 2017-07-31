@@ -71,9 +71,9 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
 
 ### ML Practice: Titanic Dataset
-- [ ] [Feature Engineering and how to get good at it](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+- [ ] [Feature Engineering](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 - [ ] Exercise: [Titanic Dataset]()
-- [ ] [Session Resources]()
+- [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#titanic-dataset)
 
 ### Decision Trees (Coming soon!)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#decision-trees)
