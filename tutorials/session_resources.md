@@ -30,6 +30,9 @@
 * [Why One-Hot Encode Data in Machine Learning?](http://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
 * [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
 
+## Model Evaluation
+* [Model Evaluation with Scikit-learn](http://scikit-learn.org/stable/modules/model_evaluation.html)
+
 ## Decision Trees
 * [Decision Trees Overview](https://algobeans.com/2016/07/27/decision-trees-tutorial/)
 * [Slides about Decision Trees](https://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)

@@ -70,6 +70,12 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
 
+### Model Evaluation
+- [ ] [Session Slides]()
+- [ ] [](http://www.ritchieng.com/machine-learning-evaluate-classification-model/) 
+- [ ] Exercise: [Pima Indians Diabetes Dataset]
+- [ ] [Session Resources]()
+
 ### ML Practice: Titanic Dataset
 - [ ] [Feature Engineering](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 - [ ] Exercise: [Titanic Dataset]()
