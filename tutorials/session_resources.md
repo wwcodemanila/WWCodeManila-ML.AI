@@ -37,6 +37,11 @@
 * [Tips on Practical Use](http://scikit-learn.org/stable/modules/tree.html#tips-on-practical-use)
 * [Tree-based Modeling in Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
+## Titanic Dataset
+* [Using Decision Trees](https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset)
+* [Titanic - Data Science Tutorial](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
+* [Kaggle Titanic Tutorial in Scikit-learn](http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/)
+
 ## Linear Regression in One Variable
 * [Linear Regression in Python](http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html)
 

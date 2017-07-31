@@ -55,7 +55,7 @@ If you have questions, please feel free to ask and participate in any of the fol
 ### Exploratory Analysis
 - [ ] [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
 - [ ] [Visualize Machine Learning Data in Python With Pandas](http://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
-- [ ] Exercise: [Pima Indians Diabetes Prediction]()
+- [ ] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/explore_exercise.ipynb)
 
 ### Feature Scaling
 - [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
@@ -70,10 +70,10 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
 
-### Machine Learning Practice 
+### ML Practice: Titanic Dataset
 - [ ] [Feature Engineering and how to get good at it](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 - [ ] Exercise: [Titanic Dataset]()
-- [ ] Guide: [Kaggle Titanic Tutorial in Scikit-learn](http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/)
+- [ ] [Session Resources]()
 
 ### Decision Trees (Coming soon!)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#decision-trees)

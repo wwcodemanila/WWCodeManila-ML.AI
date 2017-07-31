@@ -39,7 +39,7 @@ Example: For the feature `gender`, we encode `Female as 1` and `Male as 0`.
 
 There are a number of way to do this. Listed are just some ways:
 
-### Using LabelEncoder
+### Using `LabelEncoder`
 ```python
 encoder = preprocessing.LabelEncoder()
 data['gender'] = encoder.fit_transform(data['gender'])
