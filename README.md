@@ -50,12 +50,12 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [X] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
 - [X] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
 - [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
-- [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#missing-values)
+- [X] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_exercise.ipynb)
 
 ### Exploratory Analysis
 - [ ] [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
 - [ ] [Visualize Machine Learning Data in Python With Pandas](http://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
-- [ ] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/explore_exercise.ipynb)
+- [ ] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_exercise.ipynb)
 
 ### Feature Scaling
 - [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%204)%20Feature%20Scaling.pdf)
@@ -66,14 +66,14 @@ If you have questions, please feel free to ask and participate in any of the fol
 ### Categorical Values 
 - [ ] [Session Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Session%205)%20Categorical%20Data.pdf)
 - [ ] [Visualizing Categorical Data Tutorial](http://adataanalyst.com/data-analysis-resources/visualise-categorical-variables-in-python/)
-- [ ] [Handling Categorical Values Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
+- [ ] [Handling Categorical Data Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
 - [ ] [Session Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
 
 ### Model Evaluation
 - [ ] [Session Slides]()
-- [ ] [](http://www.ritchieng.com/machine-learning-evaluate-classification-model/) 
-- [ ] Exercise: [Pima Indians Diabetes Dataset]
+- [ ] [Evaluating Classification Models](http://www.ritchieng.com/machine-learning-evaluate-classification-model/) 
+- [ ] Exercise: [Pima Indians Diabetes Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_exercise.ipynb)
 - [ ] [Session Resources]()
 
 ### ML Practice: Titanic Dataset
