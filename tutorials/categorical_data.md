@@ -136,8 +136,3 @@ This creates additional features `eye_color.brown`, `eye_color.blue`, ..., `eye_
 Note that pandas.get_dummies, unlike 'OneHotEncode', only converts string columns into one-hot representation, unless columns are specified.
 ([Source](https://stackoverflow.com/questions/36631163/pandas-get-dummies-vs-sklearns-onehotencoder-what-is-more-efficient))
 
-## Resources
-* [Nominal vs Ordinal Encoding](http://stackoverflow.com/questions/34087329/categorical-and-ordinal-feature-data-representation-in-regression-analysis)
-* [Simple Methods to deal with Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
-* [Kaggle discussion for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
-
