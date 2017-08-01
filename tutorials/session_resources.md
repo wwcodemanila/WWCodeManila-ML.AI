@@ -25,6 +25,7 @@
 * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
 ### Categorical Values
+* [Pandas Cross Tabs](https://chrisalbon.com/python/pandas_crosstabs.html)
 * [Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
 * [Kaggle kernel for Adult Dataset](https://www.kaggle.com/bananuhbeatdown/multiple-ml-techniques-and-analysis-of-dataset)
 * [Why One-Hot Encode Data in Machine Learning?](http://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)

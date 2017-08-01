@@ -1,6 +1,7 @@
 # Resources
 
 ## Online Courses and Tutorials
+* [Richie Ng's ML Tutorials](http://www.ritchieng.com/machine-learning-resources/)
 * [Curated List of Python Tutorials for Data Science and Machine Learning](https://ujjwalkarn.me/2016/05/30/a-curated-list-of-python-tutorials-for-data-science-nlp-and-machine-learning/)
 	* A list of Python tutorials for data science, machine learning and natural language processing
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
