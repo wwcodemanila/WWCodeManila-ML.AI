@@ -26,7 +26,7 @@ If you have questions, please feel free to ask and participate in any of the fol
     * Please upload or push the file to your GIT repository.
     * Open an issue in this repository named [Your name] - [topic]. For example, John Doe - First ML Project.
     * Share the link of your work on the issue.
-* New to Git? No worries, [check ot these guides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#github). 
+* New to Git? No worries, [check ot these guides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#github). 
 
 ## Our Milestones
 ### Getting started
@@ -38,13 +38,13 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [X] [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
-- [X] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#introduction-to-machine-learning-with-scikit-learn)
+- [X] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
 
 ### K-Nearest Neighbor
 - [X] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Study Group%202)%20K-Nearest%20Neighbor.pdf)
 - [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
 - [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exercise.ipynb)
-- [X] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#k-nearest-neighbor)
+- [X] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
 
 ### Missing Values
 - [X] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Study Group%204)%20Feature%20Scaling.pdf)
@@ -61,14 +61,14 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [ ] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Study Group%204)%20Feature%20Scaling.pdf)
 - [ ] Exercise: [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
 - [ ] Assignment: [Binarize Features in Handwritten Digit Recognition](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#feature-scaling)
+- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#feature-scaling)
 
 ### Categorical Values 
 - [ ] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Study Group%205)%20Categorical%20Data.pdf)
 - [ ] [Visualizing Categorical Data Tutorial](http://adataanalyst.com/data-analysis-resources/visualise-categorical-variables-in-python/)
 - [ ] [Handling Categorical Data Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/categorical_data.md)
 - [ ] Exercise: [Adult Census Income Dataset](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/categorical_data.ipynb)
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#categorical-values)
+- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#categorical-values)
 
 ### Model Evaluation
 - [ ] [Study Group Slides]()
@@ -79,14 +79,14 @@ If you have questions, please feel free to ask and participate in any of the fol
 ### ML Practice: Titanic Dataset
 - [ ] [Feature Engineering](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 - [ ] Exercise: [Titanic Dataset]()
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#titanic-dataset)
+- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#titanic-dataset)
 
 ### Decision Trees (Coming soon!)
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#decision-trees)
+- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
 
 ### Linear Regression in One Variable (Coming Soon!)
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#linear-regression-in-one-variable)
+- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#linear-regression-in-one-variable)
 
 ### Introduction to Tensorflow (Coming Soon!)
 - [ ] Exercise: [Tensorflow and Deep Learning Tutorial](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
-- [ ] [Study Group Resource](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/session_resources.md#introduction-to-tensorflow)
+- [ ] [Study Group Resource](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-tensorflow)
