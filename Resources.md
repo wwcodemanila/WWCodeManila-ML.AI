@@ -2,7 +2,9 @@
 
 ## Online Courses and Tutorials
 * [Richie Ng's ML Tutorials](http://www.ritchieng.com/machine-learning-resources/)
+	* Curated list of ML Tutorials
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+	* Youtube tutorial series on the essence of linear algebra
 * [Curated List of Python Tutorials for Data Science and Machine Learning](https://ujjwalkarn.me/2016/05/30/a-curated-list-of-python-tutorials-for-data-science-nlp-and-machine-learning/)
 	* A list of Python tutorials for data science, machine learning and natural language processing
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
@@ -14,6 +16,7 @@
 	* Perfect for beginners. Lets you jump right into the practical applications of machine learning with beginner-friendly tutorials. 
 * [Andrew Ng's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning/)
 	* A bit more advanced and in-depth. Requires some background in Calculus, Linear algebra, and Octave/Matlab Programming. Gives great explanations of how machine learning algorithms work.  
+* [Reinforcement Learning Github](https://github.com/aikorea/awesome-rl)
 
 ## Books
 * [The Complete Machine Learning Bookshelf](http://machinelearningmastery.com/machine-learning-books/)
