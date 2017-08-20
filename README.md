@@ -35,33 +35,36 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [X] [Getting started with Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
 
 ### Introduction to Machine Learning with Scikit-learn
-- [X] [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
-- [X] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
-- [X] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
-- [X] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
+- [x] [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- [x] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
+- [x] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
+- [x] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
 
 ### K-Nearest Neighbor
-- [X] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%202)%20K-Nearest%20Neighbor.pdf)
-- [X] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
-- [X] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exercise.ipynb)
-- [X] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
+- [x] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%202)%20K-Nearest%20Neighbor.pdf)
+- [x] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
+- [x] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exercise.ipynb)
+- [x] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
 
 ### Missing Values
-- [X] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%203)%20Missing%20Values.pdf)
-- [X] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
-- [X] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
-- [X] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_exercise.ipynb)
+- [x] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%203)%20Missing%20Values.pdf)
+- [x] [Handling Missing Values Tutorial](http://machinelearningmastery.com/handle-missing-data-python/) 
+- [x] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/missing_values_exercise.ipynb) 
+- [x] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_exercise.ipynb)
 
 ### Exploratory Analysis
-- [ ] [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
-- [ ] [Visualize Machine Learning Data in Python With Pandas](http://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
-- [ ] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_exercise.ipynb)
+- [x] [Understand your Data with Descriptive Statistics Tutorial](http://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/)
+- [x] [Visualize Machine Learning Data in Python With Pandas](http://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
+- [x] Exercise: [Pima Indians Diabetes Prediction](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pima_indians_exercise.ipynb)
 
 ### Feature Scaling
-- [ ] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%204)%20Feature%20Scaling.pdf)
-- [ ] Exercise: [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
-- [ ] Assignment: [Binarize Features in Handwritten Digit Recognition](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#feature-scaling)
+- [x] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%204)%20Feature%20Scaling.pdf)
+- [x] Exercise: [Wine Data Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_scaling_tutorial.ipynb)
+- [x] Assignment: [Binarize Features in Handwritten Digit Recognition](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/feature_binarization.md) 
+- [x] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#feature-scaling)
+
+### Decision Trees (Coming soon!)
+- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
 
 ### Categorical Values 
 - [ ] [Study Group Slides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%205)%20Categorical%20Data.pdf)
@@ -80,9 +83,6 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [ ] [Feature Engineering](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 - [ ] Exercise: [Titanic Dataset]()
 - [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#titanic-dataset)
-
-### Decision Trees (Coming soon!)
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
 
 ### Linear Regression in One Variable (Coming Soon!)
 - [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#linear-regression-in-one-variable)
