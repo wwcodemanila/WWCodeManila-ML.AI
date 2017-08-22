@@ -5,6 +5,7 @@
 	* Curated list of ML Tutorials
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 	* Youtube tutorial series on the essence of linear algebra
+* [Linear Algebra in Python](http://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
 * [Curated List of Python Tutorials for Data Science and Machine Learning](https://ujjwalkarn.me/2016/05/30/a-curated-list-of-python-tutorials-for-data-science-nlp-and-machine-learning/)
 	* A list of Python tutorials for data science, machine learning and natural language processing
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
