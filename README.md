@@ -26,7 +26,7 @@ If you have questions, please feel free to ask and participate in any of the fol
     * Please upload or push the file to your GIT repository.
     * Open an issue in this repository named [Your name] - [topic]. For example, John Doe - First ML Project.
     * Share the link of your work on the issue.
-* New to Git? No worries, [check ot these guides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#github). 
+* New to Git? No worries, [check ot these guides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#github).
 
 ## Our Milestones
 ### Getting started
@@ -47,5 +47,6 @@ If you have questions, please feel free to ask and participate in any of the fol
 - [x] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
 
 ### Decision Trees
-= [ ] [Slide Set]()
+- [ ] [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%205)%20Decision%20Trees.pdf)
+- [ ] Exercise: [Building Decision Trees]()
 - [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
