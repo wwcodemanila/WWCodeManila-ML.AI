@@ -48,5 +48,5 @@ If you have questions, please feel free to ask and participate in any of the fol
 
 ### Decision Trees
 - [ ] [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%205)%20Decision%20Trees.pdf)
-- [ ] Exercise: [Building Decision Trees]()
+- [ ] Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
 - [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
