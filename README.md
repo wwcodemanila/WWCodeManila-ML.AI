@@ -14,19 +14,7 @@ Machine learning is the science of getting computers to act without being explic
     - Announcement
 * Note: Every other session, we will discuss one machine learning/ AI algorithm.
 * Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets)! 
-
-## Discussions Board
-If you have questions, please feel free to ask and participate in any of the following: 
-- [Discussion board at our official Meetup page](https://www.meetup.com/Women-Who-Code-Manila/messages/boards/forum/25085644) 
-- [Official ML/AI Gitter](https://gitter.im/WWCodeManila/Machine-Learning-AI). 
-
-## Sharing Your Work
-* [Guide on how to open an issue in a repository.](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md)
-    * Create a Github account and create a repository for wwcode-ml.ai. You will upload your work there.
-    * Please upload or push the file to your GIT repository.
-    * Open an issue in this repository named [Your name] - [topic]. For example, John Doe - First ML Project.
-    * Share the link of your work on the issue.
-* New to Git? No worries, [check ot these guides](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#github).
+* If you have questions, please feel free to ask and participate in our [Official ML/AI Gitter](https://gitter.im/WWCodeManila/Machine-Learning-AI). 
 
 ## Our Milestones
 ### Getting started

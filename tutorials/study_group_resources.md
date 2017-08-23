@@ -21,3 +21,4 @@
 
 ## Decision Trees
 * [Decision Tree Lecture by Victor Lavrenko ](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
+* [Decision Trees (PDF)][http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf]
