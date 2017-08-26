@@ -20,5 +20,6 @@
 * [Pre-processing data with Scikit-learn](http://scikit-learn.org/stable/modules/preprocessing.html)
 
 ## Decision Trees
+* [Visual Intro to ML through Decision Trees](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Decision Tree Lecture by Victor Lavrenko ](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
 * [Decision Trees (PDF)][http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf]

@@ -18,23 +18,24 @@ Machine learning is the science of getting computers to act without being explic
 
 ## Our Milestones
 ### Getting started
-- [X] [Anaconda Installation](https://www.continuum.io/downloads) 
-- [X] [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
-- [X] [Getting started with Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
+- [Anaconda Installation](https://www.continuum.io/downloads) 
+- [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
+- [Getting started with Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
 
 ### Introduction to Machine Learning with Scikit-learn
-- [x] [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
-- [x] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
-- [x] Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
-- [x] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
+- [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
+- Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
+- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
 
 ### K-Nearest Neighbor
-- [x] [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%202)%20K-Nearest%20Neighbor.pdf)
-- [x] Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
-- [x] Assignment: [KNN from Scratch](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/knn_scratch_exercise.ipynb)
-- [x] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
+- [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%202)%20K-Nearest%20Neighbor.pdf)
+- Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
+- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
 
 ### Decision Trees
-- [ ] [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%205)%20Decision%20Trees.pdf)
-- [ ] Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
-- [ ] [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
+- [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%205)%20Decision%20Trees.pdf)
+- Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
+- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
+
+### Random Forests (Coming soon!)
