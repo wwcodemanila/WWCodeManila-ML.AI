@@ -17,16 +17,19 @@ Machine learning is the science of getting computers to act without being explic
 * If you have questions, please feel free to ask and participate in our [Official ML/AI Gitter](https://gitter.im/WWCodeManila/Machine-Learning-AI). 
 
 ## Our Milestones
-### Getting started
+### Getting started 
 - [Anaconda Installation](https://www.continuum.io/downloads) 
 - [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 - [Getting started with Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
 
-### Introduction to Machine Learning with Scikit-learn
+### Introduction to Machine Learning with Scikit-learn 
 - [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 - [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
+
+### Data Preparation
+- [Study Group Resources]()
 
 ### K-Nearest Neighbor
 - [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%202)%20K-Nearest%20Neighbor.pdf)
@@ -38,4 +41,6 @@ Machine learning is the science of getting computers to act without being explic
 - Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
 - [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
 
-### Random Forests (Coming soon!)
+### Random Forests (Coming Soon)
+
+### Naive Bayes (Coming Soon)
