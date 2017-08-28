@@ -27,8 +27,7 @@ Machine learning is the science of getting computers to act without being explic
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 - [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
-
-### <a style="text-decorations:none; color:inherit;>[Data Preparation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/data_prep.md)</a>
+- [Data Preparation Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/data_prep.md)
 
 ### K-Nearest Neighbor
 - [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%202)%20K-Nearest%20Neighbor.pdf)
