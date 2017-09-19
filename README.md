@@ -13,7 +13,8 @@ Machine learning is the science of getting computers to act without being explic
     - Today I Learned (TIL)
     - Announcement
 * Note: Every other session, we will discuss one machine learning/ AI algorithm.
-* Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets)! 
+* Check out our [slide sets](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE).
+* Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets).
 * If you have questions, please feel free to ask and participate in our [Official ML/AI Gitter](https://gitter.im/WWCodeManila/Machine-Learning-AI). 
 
 ## Our Milestones
@@ -27,15 +28,17 @@ Machine learning is the science of getting computers to act without being explic
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 - Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
 - [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
-- [Data Preparation Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/data_prep.md)
+
+### Data Preparation
+- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/data_prep.md)
 
 ### K-Nearest Neighbor
-- [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%202)%20K-Nearest%20Neighbor.pdf)
+- [Slide Set](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE)
 - Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
 - [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
 
 ### Decision Trees
-- [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slides/(Slide%20Set%205)%20Decision%20Trees.pdf)
+- [Slide Set](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE)
 - Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
 - [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
 
