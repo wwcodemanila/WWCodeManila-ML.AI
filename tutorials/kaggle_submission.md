@@ -18,7 +18,6 @@ You can check out the [Kaggle competition for Digit Recognizer here](https://www
 		```shell
 		test_data = pd.read_csv('test.csv')
 		results = clf.predict(test_data[:])
-
 		df = pd.DataFrame(results)
 		df.index += 1 #indexing starts from 1
 		df.index.names = ['ImageId']

@@ -12,30 +12,20 @@ Machine learning is the science of getting computers to act without being explic
     - Self-paced or mini study session
     - Today I Learned (TIL)
     - Announcement
-* Note: Every other session, we will discuss one machine learning/ AI algorithm.
 * Check out our [slide sets](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE).
 * Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets).
 * If you have questions, please feel free to ask and participate in our [Official ML/AI Gitter](https://gitter.im/WWCodeManila/Machine-Learning-AI). 
 
 ## Our Milestones
 ### Getting started 
-- [Anaconda Installation](https://www.continuum.io/downloads) 
-- [Run a basic Python program in Anaconda Prompt](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
-- [Getting started with Jupyter Notebook (Optional)](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.opKmdO0)
+- [Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
+- [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
 ### Introduction to Machine Learning with Scikit-learn 
-- [Our First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- [Intro to Machine Learning: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
-- Assignment: [Digit Recognizer Kaggle Submission](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/kaggle_submission.md)
-- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#introduction-to-machine-learning-with-scikit-learn)
 
-### Data Preparation
-- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/data_prep.md)
-
-### K-Nearest Neighbor
-- [Slide Set](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE)
-- Exercise: [Iris Plant Classification using KNN](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/iris_knn_exercise.ipynb)
-- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#k-nearest-neighbor)
+### K-Nearest Neighbors
 
 ### Decision Trees
 - [Slide Set](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE)
