@@ -25,13 +25,12 @@ Machine learning is the science of getting computers to act without being explic
 - [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
-### Learning Pandas with Pokemon
+### Pandas Basics
+- [Pandas Basics with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/pokemon_pandas.ipynb)
 
-
----
 ## Math of Intelligence Series
 ### Decision Trees
-- [Slide Set]()
+- [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203-%20Decision%20Trees.pdf)
 - Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
 - [Study Group Resources](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
 
