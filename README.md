@@ -8,26 +8,30 @@ Machine learning is the science of getting computers to act without being explic
 * Our 1.5-2 hours will be divided into:
     - Introduction/Getting to know first-timers 
     - Discuss questions/issues raised on discussion board 
-    - Lightning Talk (anyone who wants to discuss a machine learning project) 
+    - Lightning Talk 
     - Self-paced or mini study session
     - Today I Learned (TIL)
     - Announcement
-* Check out our [slide sets](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE).
-* Check out [these useful cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets).
+* Check out our [slide sets]().
+* Check out these useful [cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets).
 * If you have questions, please feel free to ask and participate in our [Official ML/AI Gitter](https://gitter.im/WWCodeManila/Machine-Learning-AI). 
 
 ## Our Milestones
 ### Getting started 
-- [Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
+- [Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.ipynb)
 - [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
 ### Introduction to Machine Learning 
-- [Intro to Machine Learning: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
+### Learning Pandas with Pokemon
+
+
+---
 ## Math of Intelligence Series
 ### Decision Trees
-- [Slide Set](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE)
+- [Slide Set]()
 - Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
 - [Study Group Resources](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
 
