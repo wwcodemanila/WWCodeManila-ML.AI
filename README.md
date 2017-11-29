@@ -21,16 +21,17 @@ Machine learning is the science of getting computers to act without being explic
 - [Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.md)
 - [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
-### Introduction to Machine Learning with Scikit-learn 
+### Introduction to Machine Learning 
 - [Intro to Machine Learning: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
-### K-Nearest Neighbors
-
+## Math of Intelligence Series
 ### Decision Trees
 - [Slide Set](https://drive.google.com/drive/folders/0B4MBlxOHZXgzVTdHeUpLeXdidUE)
 - Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
-- [Study Group Resources](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/study_group_resources.md#decision-trees)
+- [Study Group Resources](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
+
+### K-Nearest Neighbor (Coming Soon)
 
 ### Random Forests (Coming Soon)
 
