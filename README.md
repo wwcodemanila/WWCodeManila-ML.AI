@@ -18,24 +18,24 @@ Machine learning is the science of getting computers to act without being explic
 
 ## Our Milestones
 ### Getting started 
-[x] [Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.ipynb)
-[x] [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+- [Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.ipynb)
+- [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
 ### Introduction to Machine Learning 
-[x] [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
-[x] Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
+- [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
 ### Pandas Basics
-[ ] Option 1: [Learning Pandas with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas.ipynb)
-[ ] Option 2: [Learning Pandas with Cereals]()
+- Option 1: [Learning Pandas with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas.ipynb)
+- Option 2: [Learning Pandas with Cereals]()
 
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
 
 #### Decision Trees
-[ ] [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)
-[ ] Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
-[ ] [Study Group Resources](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
+- [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)
+- Exercise: [Building Decision Trees](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb)
+- [Study Group Resources](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
 
 #### Random Forests (Coming Soon)
 
