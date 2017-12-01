@@ -27,7 +27,7 @@ Machine learning is the science of getting computers to act without being explic
 
 ### Pandas Basics
 - Option 1: Learning Pandas with Pokemon [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part2.ipynb)]
-- Option 2: [Learning Pandas with Mcdonalds]()
+- Option 2: Learning Pandas with Mcdonalds [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part1.ipynb)]
 
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
