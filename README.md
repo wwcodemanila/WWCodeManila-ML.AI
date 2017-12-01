@@ -26,7 +26,7 @@ Machine learning is the science of getting computers to act without being explic
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
 ### Pandas Basics
-- Option 1: [Learning Pandas with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas.ipynb)
+- Option 1: Learning Pandas with Pokemon [Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part1.ipynb) [Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part2.ipynb)
 - Option 2: [Learning Pandas with Mcdonalds]()
 
 ### Math of Intelligence Series
