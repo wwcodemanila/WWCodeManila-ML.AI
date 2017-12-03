@@ -25,16 +25,22 @@ Machine learning is the science of getting computers to act without being explic
 - [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
+### Python Basics (Crash Course/Review)
+- Part 1: [Datatypes]()
+- Part 2: [Containers]()
+- Part 3: [Functions]()
+- Part 4: [Classes]()
+
 ### Pandas Basics
-- Option 1: Learning Pandas with Pokemon [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part2.ipynb)]
-- Option 2: Learning Pandas with McDonalds [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part2.ipynb)]
+- Option 1: Learning Pandas with Pokemon [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part2.ipynb)] [[Part3](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part3.ipynb)]
+- Option 2: Learning Pandas with McDonalds [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part2.ipynb)] [[Part 3](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part3.ipynb)]
 
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
 
-| Topic         | Slide Set    | Exercise  | Resources |
-| ------------- |:-------------:| -----| ------|
-| <b>Decision Trees</b>  | [DT Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)| [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Resource](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
-| <b>Random Forests</b> | [Coming Soon] | | |
-| <b>Naive Bayes</b> | [Coming Soon] | | |
+| Topic         | Slide Set    | Samples |  Exercise  | Resources |
+| ------------- |:-------------:| -----| ------| --|
+| <b>Decision Trees</b>  | [DT Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)| | [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Video](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
+| <b>Random Forests</b> | [Coming Soon] | | | |
+| <b>Naive Bayes</b> | [Coming Soon] | | | |
 
