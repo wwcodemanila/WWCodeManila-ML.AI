@@ -26,7 +26,7 @@ Machine learning is the science of getting computers to act without being explic
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
 ### Python Basics (Crash Course/Review)
-- Part 1: [Datatypes]()
+- Part 1: [Datatypes](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part1.ipynb)
 - Part 2: [Containers]()
 - Part 3: [Functions]()
 - Part 4: [Classes]()
