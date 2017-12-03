@@ -33,8 +33,8 @@ Machine learning is the science of getting computers to act without being explic
 In-depth discussions of the different machine learning algorithms.
 
 | Topic         | Slide Set    | Exercise  | Resources |
-| ------------- |:-------------:| -----:| ------:|
-| <b>Decision Trees</b>  | [Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)| [Building DTs](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Resource](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
-| Random Forests | (Coming Soon) | | |
-| Naive Bayes | (Coming Soon) | | |
+| ------------- |:-------------:| -----| ------|
+| <b>Decision Trees</b>  | [DT Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)| [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Resource](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
+| <b>Random Forests</b> | [Coming Soon] | | |
+| <b>Naive Bayes</b> | [Coming Soon] | | |
 
