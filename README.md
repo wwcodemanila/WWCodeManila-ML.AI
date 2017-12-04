@@ -21,14 +21,14 @@ Machine learning is the science of getting computers to act without being explic
 - [Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.ipynb)
 - [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
-### Introduction to Machine Learning 
-- [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
-- Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
-
-### Python for Machie Learning (Crash Course/Review)
+### Python for Machine Learning (Crash Course/Review)
 - Part 1: [Datatypes: Numbers, Strings, Booleans](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part1.ipynb)
 - Part 2: [Containers: Lists, Dictionaries, Sets](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part2.ipynb)
 - Part 3: [Functions and Classes](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part3.ipynb)
+
+### Introduction to Machine Learning 
+- Your First Machine Learning Project (Tutorial): [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
 ### Pandas Basics
 - Option 1: Learning Pandas with Pokemon [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part2.ipynb)] [[Part3](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part3.ipynb)]
