@@ -27,7 +27,7 @@ Machine learning is the science of getting computers to act without being explic
 - Part 3: [Functions and Classes](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part3.ipynb)
 
 ### Introduction to Machine Learning 
-- [Your First Machine Learning Project (Tutorial): Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
 ### Pandas Basics
