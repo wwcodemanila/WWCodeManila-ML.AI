@@ -23,8 +23,8 @@ Machine learning is the science of getting computers to act without being explic
 
 ### Python for Machine Learning (Crash Course/Review)
 - Part 1: [Datatypes: Numbers, Strings, Booleans](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part1.ipynb)
-- Part 2: [Containers: Lists, Dictionaries, Sets](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part2.ipynb)
-- Part 3: [Functions and Classes](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part3.ipynb)
+- Part 2: [Containers: Lists andDictionaries](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part2.ipynb)
+- Part 3: [Functions](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part3.ipynb)
 
 ### Introduction to Machine Learning 
 - [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
@@ -33,6 +33,9 @@ Machine learning is the science of getting computers to act without being explic
 ### Pandas Basics
 - Option 1: [Learning Pandas with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas.ipynb)
 - Option 2: [Learning Pandas with McDonalds](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas.ipynb) 
+
+
+
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
 
