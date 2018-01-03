@@ -31,9 +31,8 @@ Machine learning is the science of getting computers to act without being explic
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
 ### Pandas Basics
-- Option 1: Learning Pandas with Pokemon [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part2.ipynb)] [[Part3](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas_part3.ipynb)]
-- Option 2: Learning Pandas with McDonalds [[Part 1](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part1.ipynb)] [[Part 2](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part2.ipynb)] [[Part 3](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas_part3.ipynb)]
-
+- Option 1: [Learning Pandas with Pokemon]((https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas.ipynb))
+- Option 2: [Learning Pandas with McDonalds]https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas.ipynb)] 
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
 
