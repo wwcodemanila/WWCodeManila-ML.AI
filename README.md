@@ -23,7 +23,7 @@ Machine learning is the science of getting computers to act without being explic
 
 ### Python for Machine Learning (Crash Course/Review)
 - Part 1: [Datatypes: Numbers, Strings, Booleans](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part1.ipynb)
-- Part 2: [Containers: Lists andDictionaries](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part2.ipynb)
+- Part 2: [Containers: Lists and Dictionaries](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part2.ipynb)
 - Part 3: [Functions](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part3.ipynb)
 
 ### Introduction to Machine Learning 
@@ -41,7 +41,7 @@ In-depth discussions of the different machine learning algorithms.
 
 | Topic         | Slide Set    | Samples |  Exercise  | Resources |
 | ------------- |:-------------:| -----| ------| --|
-| <b>Decision Trees</b>  | [DT Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)| | [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Video](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
+| <b>Decision Trees</b>  | [DT Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)| DT Example | [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Video](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
 | <b>Random Forests</b> | [Coming Soon] | | | |
 | <b>Naive Bayes</b> | [Coming Soon] | | | |
 
