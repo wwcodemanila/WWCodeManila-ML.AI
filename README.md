@@ -34,14 +34,12 @@ Machine learning is the science of getting computers to act without being explic
 - Option 1: [Learning Pandas with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas.ipynb)
 - Option 2: [Learning Pandas with McDonalds](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas.ipynb) 
 
-
-
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
 
 | Topic         | Slide Set    | Samples |  Exercise  | Resources |
 | ------------- |:-------------:| -----| ------| --|
-| <b>Decision Trees</b>  | [DT Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)| [DT Example](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Building%20a%20Decision%20Tree%20(Example).pdf) | [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Video](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
+| <b>Decision Trees</b>  | <ul><li>[DT Slide Set - Entropy](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf)</li><li>DT Slide Set - Gini Index</li></ul> | [DT Example](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Building%20a%20Decision%20Tree%20(Example).pdf) | [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Video](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
 | <b>Random Forests</b> | [Coming Soon] | | | |
 | <b>Naive Bayes</b> | [Coming Soon] | | | |
 
