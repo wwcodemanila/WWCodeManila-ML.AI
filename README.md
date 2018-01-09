@@ -40,7 +40,7 @@ Machine learning is the science of getting computers to act without being explic
 - Exercise 2: [Survey Design](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/survey_design_exercise.ipynb)
 
 ### Data Visualization with Seaborn
-- Exercise: Categorical Plots with Pokemon
+- Exercise: [Categorical Plots with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/category_seaborn.ipynb)
 
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
