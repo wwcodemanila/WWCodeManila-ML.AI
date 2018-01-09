@@ -36,8 +36,8 @@ Machine learning is the science of getting computers to act without being explic
 
 ### Data & Design
 - [Data + Design: An introduction to preparing and visualizing information](https://infoactive.co/data-design/titlepage01.html)
-- Exercise: Data + Design Note-taking
-- Exercise: Survey Design
+- Exercise: [Data + Design Note-taking](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/data_design_exercise.ipynb)
+- Exercise: [Survey Design](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/survey_design_exercise.ipynb)
 
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
