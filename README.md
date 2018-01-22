@@ -36,7 +36,7 @@ Machine learning is the science of getting computers to act without being explic
 
 ### Data & Design
 - [Data + Design: An Intro to Preparing and Visualizing Data](https://infoactive.co/data-design/titlepage01.html)
-- Exercise 1: [Data + Design Note-taking](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/data_design_exercise.ipynb)
+- Exercise 1: [Data + Design Reading Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/data_design_exercise.ipynb)
 - Exercise 2: [Survey Design](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/survey_design_exercise.ipynb)
 
 ### Data Visualization with Seaborn
