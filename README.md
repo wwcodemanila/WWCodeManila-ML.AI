@@ -15,30 +15,34 @@ Machine learning is the science of getting computers to act without being explic
 * Check out these useful [cheatsheets](https://gitlab.com/wwcodemanila/WWCodeManila-ML.AI/tree/master/cheatsheets).
 * If you have questions, please feel free to ask and participate in our [Official ML/AI Gitter](https://gitter.im/WWCodeManila/Machine-Learning-AI). 
 
+### Credits
+We based our materials and exercises, with permission, on [Professor Jennifer Widom's short course on Big Data](http://www.professorwidom.org/bigdata/).
+
 ## Our Milestones
 ### Getting started 
 - [Jupyter/Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.ipynb)
 
 ### Python for Machine Learning (Crash Course/Review)
-- [Python Basics Tutorial]()
+- [Python Basics Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_tutorial.ipynb)
 - Exercise 1: [Datatypes: Numbers, Strings, Booleans](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part1.ipynb)
 - Exercise 2: [Containers: Lists and Dictionaries](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part2.ipynb)
 - Exercise 3: [Functions](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part3.ipynb)
 
 ### Basic Data Manipulation with Pandas
-- [Pandas Basics Tutorial]()
+- [Pandas Basics Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_pandas_tutorial.ipynb)
 - Exercise Option 1: [Learning Pandas with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/pokemon_pandas.ipynb)
 - Exercise Option 2: [Learning Pandas with McDonalds](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas.ipynb) 
 
-### Data Visualization with Seaborn
-- Exercise: [Categorical Plots with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/category_seaborn.ipynb)
+### Basic Data Visualization 
+- [Data Visualization Tutorial and Overview]()
+- Exercise: [Seaborn Categorical Plots with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/category_seaborn.ipynb)
 
 ### Introduction to Machine Learning 
-- [Your First Machine Learning Project: Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
+- Your First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
 ### Basic Regression
-- [Univariate Linear Regression using NumPy]()
+- [Univariate Linear Regression using NumPy](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_regression_exercise.ipynb)
 
 ### Math of Intelligence Series
 In-depth discussions of the different machine learning algorithms.
@@ -47,9 +51,5 @@ In-depth discussions of the different machine learning algorithms.
 | ------------- |:-------------:| -----| ------| --|
 | <b>Decision Trees</b>  | [DT Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees.pdf), [Gini Index](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%203%20-%20Decision%20Trees%20-%20Gini.pdf)| [DT Example](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Example%20-%20Building%20a%20Decision%20Tree.pdf) | [DT Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/decision_trees_exercise.ipynb) | [DT Video](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) |
 | <b>Naive Bayes</b> | [NB Slide Set](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Slide%20Set%205%20-%20Naive%20Bayes.pdf) | [NB Example](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/slide%20sets/Example%20-%20Naive%20Bayes%20Classifier.pdf) | [NB Exercise](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/naive_bayes_exercise.ipynb) | [NB Video](https://www.youtube.com/watch?v=PrkiRVcrxOs&t=405s) |
-| <b>Random Forests</b> | [Coming Soon] | | | |
-
-### Credits
-We based our materials and exercises, with permission, on [Professor Jennifer Widom's short course on Big Data](http://www.professorwidom.org/bigdata/).
 
 
