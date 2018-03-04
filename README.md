@@ -34,7 +34,7 @@ We based our materials and exercises, with permission, on [Professor Jennifer Wi
 - Exercise Option 2: [Learning Pandas with McDonalds](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mcdonalds_pandas.ipynb) 
 
 ### Basic Data Visualization 
-- [Data Visualization Tutorial and Overview]()
+- [Data Visualization Tutorial/Overview](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_visualization_exercise.ipynb)
 - Exercise: [Seaborn Categorical Plots with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/category_seaborn.ipynb)
 
 ### Introduction to Machine Learning 
