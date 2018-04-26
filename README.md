@@ -35,9 +35,8 @@ We based our materials and exercises, with permission, on [Professor Jennifer Wi
 
 ### Basic Data Visualization 
 - [Data Visualization Tutorial/Overview](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_visualization_exercise.ipynb)
-- Exercise: [Seaborn Categorical Plots with Pokemon](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/category_seaborn.ipynb)
 
-### Introduction to Machine Learning 
+### Introduction to Machine Learning using Scikit-learn
 - Your First Machine Learning Project: [Iris Plant Classification](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/Intro-to-Machine-Learning.ipynb)
 - Exercise: [Handwritten Digit Recognition (MNIST)](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/mnist_exercise.ipynb)
 
