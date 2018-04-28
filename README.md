@@ -27,6 +27,7 @@ We based our materials and exercises, with permission, on [Professor Jennifer Wi
 - Exercise 1: [Datatypes: Numbers, Strings, Booleans](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part1.ipynb)
 - Exercise 2: [Containers: Lists and Dictionaries](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part2.ipynb)
 - Exercise 3: [Functions](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_part3.ipynb)
+- [Python Advanced for Data]()
 
 ### Basic Data Manipulation with Pandas
 - [Pandas Basics Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_pandas_tutorial.ipynb)
