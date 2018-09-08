@@ -21,6 +21,7 @@ We based our materials and exercises, with permission, on [Professor Jennifer Wi
 ## Our Milestones
 ### Getting started 
 - [Jupyter/Anaconda Installation](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/tutorials/installation_guide.ipynb)
+- Or, work in the cloud: [https://colab.research.google.com](https://colab.research.google.com)
 
 ### Python for Machine Learning (Crash Course/Review)
 - [Python Basics Tutorial](https://github.com/wwcodemanila/WWCodeManila-ML.AI/blob/master/exercises/python_basics_tutorial.ipynb)
